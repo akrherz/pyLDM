@@ -16,6 +16,9 @@ and the associated myingestor file
     class MyIngestor(ldmbridge.LDMProductReceiver):
         def process_data(self, data):
             print 'I got product', data
+        def connectionLost(self, reason):
+            # Exit this program when pqact closes the STDIN PIPE
+            reactor.stop()
             
     ingest = MyIngestor()
     ldm = ldmbridge.LDMProductFactory(ingest)
