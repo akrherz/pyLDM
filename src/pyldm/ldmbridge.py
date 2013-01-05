@@ -48,16 +48,9 @@ class LDMProductReceiver(basic.LineReceiver):
 class LDMProductFactory( stdio.StandardIO ):
 
     def __init__(self, protocol, **kwargs):
-        self.protocol = protocol
+        """ constructor with a protocol instance """
         stdio.StandardIO.__init__(self, protocol, **kwargs)
 
-    def connectionLost(self, reason):
-        self.protocol.connectionLost(reason)
 
-    def childConnectionLost(self, fd, reason):
-        if self.disconnected:
-            return
-        if fd == 'read':
-            self.connectionLost(reason)
-        else:
-            self._writeConnectionLost(reason)
+
+
