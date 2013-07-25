@@ -45,6 +45,10 @@ class LDMProductReceiver(basic.LineReceiver):
     def process_data(self, data):
         raise NotImplementedError
 
+    def lineReceived(self, line):
+        ''' needless override to make pylint happy '''
+        pass
+
 class LDMProductFactory( stdio.StandardIO ):
 
     def __init__(self, protocol, **kwargs):
