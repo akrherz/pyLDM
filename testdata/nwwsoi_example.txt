@@ -1,0 +1,2811 @@
+
+132 
+FOUS54 KAKQ 052220
+PFWAKQ
+FOUS54 KAKQ 052220
+PFWAKQ
+
+EXPERIMENTAL...FIRE WEATHER POINT FORECAST MATRICES
+NATIONAL WEATHER SERVICE WAKEFIELD VA
+520 PM EST FRI DEC 5 2014
+
+MDZ021-060900-
+BLACKWATER NWR RAWS-DORCHESTER MD
+38.42N  76.00W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      42          58          38          47          32
+TEMP             43 43 44 45 46 51 55 55 51 50 47 43 39 39 44 44 37 42 40 36 33
+DEWPT            42 43 44 45 46 49 51 51 51 47 42 40 37 33 29 28 27 28 28 29 31
+MAX/MIN RH                  100          80         100          50          88
+RH               96100100100100 91 86 87100 89 83 88 92 79 56 54 67 56 62 75 91
+WIND DIR         SE SE  S  S  S  S  S  S SW  W  N  N  N  N  N  N  N  N NE NE NE
+WIND DIR DEG     12 15 20 19 19 19 18 18 21 28 34 34 35 00 01 02 02 02 03 03 04
+WIND SPD          3  3  3  3  4  4  6  6  3  9 14 16 16 16 16 12 10 10 10  9  8
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV B2 B1 SC FW FW FW SC SC B1 B1
+CLOUDS(%)       100100 98 93 91 95100100100100100 80 60 41 24 19 14 29 44 55 67
+VSBY              5  6  6 10 10  6  4  4  4  6  6  6 10 10 10 10 10 10 10 10 10
+POP 12HR                     30         100          80          10          10
+QPF 12HR                   0.01        0.32        0.34           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 C  S                                                      
+RAIN SHWRS        C              C  D  D  D  L  L  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  3     3     3     3     3     2     4     4     4     4
+MIX HGT               300   300   500   500   500   800  2300  2600  1400   800
+T WIND DIR              S     S     S    SE    NW     N     N    NE    NE    NE
+T WIND SPD              2     3     5     5    19    29    27    24    16    13
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     4     4     9     8    24    34    55    56    13    15
+MAX LVORI              10     9     9     8     8     4     4     3     2     5
+STABILITY               D     D     C     D     D     D     D     D     E     D
+CEILING              3200  4000  8000  1000   500  1000  9900 30000 26600 23500
+PRESSURE            30.37 30.29 30.21 30.10 30.05 30.17 30.36 30.45 30.56 30.56
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          45    37    49    33    44    31    45    32    46
+TEMP          40 37 39 38 48 40 36 34 43 37 33 32 43 38 35 33 44 40
+DEWPT         39 37 37 36 40 36 30 28 27 27 25 24 26 28 27 28 30 31
+MIN/MAX RH       85   100    62    85    48    74    46    82    51
+RH            95100 95 95 74 84 79 79 53 67 70 74 52 67 75 84 57 72
+WIND DIR      NE NE NE NW  W  W  W  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD       8  6  4  5  8 12 12 12 13 10 10  9 10  4  4  4  5  3
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10     5     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+MDZ022-060900-
+POWELLVILLE RAWS - WICOMICO MD
+38.35N  75.42W ELEV. 16 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      44          61          39          48          33
+TEMP             45 45 47 48 48 54 57 57 54 53 48 44 40 42 46 44 38 43 40 37 34
+DEWPT            43 44 45 46 46 50 54 53 52 48 44 41 38 34 31 30 29 30 32 33 34
+MAX/MIN RH                   97          81          94          53          97
+RH               94 96 95 94 94 87 89 86 94 84 84 89 92 74 56 57 69 61 73 86100
+WIND DIR          E SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     11 13 18 18 19 19 19 19 19 27 35 00 00 01 02 03 03 03 04 04 05
+WIND SPD          3  2  2  3  3  4  8  8  6 10 14 17 17 18 19 16 12 12 13 12 11
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        95 96 98 93 92 93 99100100100100 93 87 57 28 21 14 28 41 54 66
+VSBY              5  6  6 10 10  6  4  4  4  4  6  6  6 10 10 10 10 10 10 10 10
+POP 12HR                     30         100          80          20          10
+QPF 12HR                      0        0.24        0.48           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S  S                                                      
+RAIN SHWRS        C              C  D  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  3     3     3     3     3     2     4     4     4     4
+MIX HGT               300   300   700   700   900   900  2400  2700  1500  1000
+T WIND DIR             SW     S     S     S     W     N     N    NE    NE    NE
+T WIND SPD              1     2     8     5    13    32    29    26    20    24
+SMOKE DISP             PR    PR    PR    PR    PR    PR    GD    GD    PR    PR
+ADI                     1     4    11     9    23    38    62    63    25    29
+MAX LVORI              10     9     6     7     6     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     E     D
+CEILING              3200  4000  8000  1000   300  1000  3200 30000 30000  1000
+PRESSURE            30.34 30.27 30.18 30.07 30.01 30.09 30.28 30.38 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          48    39    49    32    44    31    45    33    46
+TEMP          43 39 41 40 48 40 35 33 43 37 34 32 43 39 35 34 45 40
+DEWPT         41 39 39 38 40 36 30 29 28 27 25 25 26 28 27 28 30 31
+MIN/MAX RH       85   100    65    88    50    75    46    80    51
+RH            92100 92 93 75 85 82 84 56 68 71 75 51 65 71 81 56 70
+WIND DIR      NE NE NE NW  W  W  W  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      12 10  8  9  9 12 14 13 14 11 10 10 10  6  6  5  6  5
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10    10     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+MDZ025-060900-
+ASSATEAGUE ISLAND RAWS - WORCHESTER MD
+38.08N  75.20W ELEV. 12 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          58          43          49          39
+TEMP             47 47 48 49 50 53 55 54 52 53 50 47 43 45 48 46 43 46 44 42 39
+DEWPT            45 47 48 49 50 51 53 53 52 50 46 44 42 39 36 35 35 36 38 38 39
+MAX/MIN RH                  100          87         100          60          95
+RH               96 98100100100 95 94 97100 89 85 90 97 79 63 66 73 69 77 85 99
+WIND DIR         SE SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     12 13 16 18 19 18 19 18 18 26 35 00 00 01 02 02 03 03 04 05 05
+WIND SPD          6  5  6  5  6  6 10  9 10 13 17 24 26 26 26 25 24 23 21 20 19
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV OV B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        93 94 96 92 89 92 95 98100100100 95 90 60 30 22 14 28 41 53 64
+VSBY              5  6 10 10 10  6  6  4  4  4  6  6  6 10 10 10  5  5  5  5 10
+POP 12HR                     20         100          80          20          10
+QPF 12HR                      0        0.19        0.50           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S                                                         
+RAIN SHWRS        S              C  L  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     3     2     3     4     4     4
+MIX HGT               300   300   600   500  1100  1500  2500  2700  1900  1700
+T WIND DIR             SE     S     S     S    SW     N     N    NE    NE    NE
+T WIND SPD              4     2     5     5    11    36    39    39    36    34
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    GD    GD    FR
+ADI                     6     4     7     6    23    63    89    89    43    59
+MAX LVORI              10    10     9     9     9     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     D     D
+CEILING              8000  4000  8000  1700   700  1000  1900 30000  1700  1000
+PRESSURE            30.37 30.30 30.22 30.11 30.05 30.09 30.28 30.39 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    44    49    37    43    36    44    38    45
+TEMP          47 44 45 44 48 43 39 37 42 39 37 36 43 41 39 38 44 42
+DEWPT         44 44 44 43 43 39 34 32 31 30 29 28 29 30 29 30 32 33
+MIN/MAX RH       86   100    70    87    57    74    53    72    58
+RH            91100 99 99 81 86 81 81 64 70 71 74 57 66 68 73 62 72
+WIND DIR      NE NE NE  N  W  W NW  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      17 14 10 12 10 16 18 18 17 16 14 14 13 11 10  9  8  8
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10    10     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+VAZ099-060900-
+CHINCOTEAGUE RAWS - ACCOMACK VA
+37.99N  75.29W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          58          43          48          39
+TEMP             47 47 47 49 50 53 55 54 52 53 52 48 43 44 48 46 43 46 45 43 39
+DEWPT            46 47 47 49 50 51 53 53 52 50 46 44 43 39 36 35 35 36 37 38 39
+MAX/MIN RH                  100          87         100          60          95
+RH               93 98100100100 95 93 97100 87 83 88 97 81 63 65 72 68 73 82 99
+WIND DIR          E SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     11 12 16 18 19 18 19 18 18 26 34 00 00 01 02 02 03 03 04 05 05
+WIND SPD          6  5  5  5  6  6 10  9 10 12 16 24 26 26 26 25 23 23 21 20 19
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV OV B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        92 93 95 91 88 91 94 97100100100 95 90 60 30 22 14 28 42 53 64
+VSBY              5  9 10 10 10  6  5  4  4  4  6  6  6 10 10 10  5  5  5  5 10
+POP 12HR                     20         100          80          20          10
+QPF 12HR                      0        0.19        0.48           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S                                                         
+RAIN SHWRS        S              C  L  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     3     2     3     4     4     4
+MIX HGT               300   300   600   500  1300  1600  2400  2600  2000  1800
+T WIND DIR             SE     S     S     S    SW     N     N    NE    NE    NE
+T WIND SPD              4     2     5     5    12    36    37    39    36    34
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    GD    GD    FR
+ADI                     6     4     7     7    29    64    87    87    50    60
+MAX LVORI              10    10     9     9     9     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     D     D
+CEILING              8000  4300  8000  1700   300  1000  1700 30000  1700  1200
+PRESSURE            30.37 30.30 30.22 30.11 30.05 30.09 30.28 30.38 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    43    49    37    43    35    44    37    45
+TEMP          47 43 44 43 48 43 39 37 42 39 37 35 43 40 38 37 44 41
+DEWPT         44 43 44 43 42 38 34 31 30 30 28 28 29 30 29 30 32 33
+MIN/MAX RH       85   100    70    86    57    74    52    74    58
+RH            91100 97 99 81 84 81 79 63 70 70 74 57 66 70 76 63 73
+WIND DIR      NE NE NE  N  W  W NW  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      17 14 10 12 10 16 18 17 16 16 14 14 13 10  9  8  6  6
+AVG CLOUDS    B1 B2 OV OV B1 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10     5     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+VAZ081-060900-
+JAMES RIVER NWR RAWS-PRINCE GEORGE VA
+37.25N  77.25W ELEV. 50 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      44          61          40          49          32
+TEMP             45 46 46 46 47 52 58 60 56 57 53 45 41 42 47 47 39 46 44 37 33
+DEWPT            43 44 44 44 44 49 53 53 53 48 43 40 37 33 30 29 28 28 28 29 30
+MAX/MIN RH                   93          74          91          45          88
+RH               93 91 93 93 89 89 84 78 91 73 69 82 86 71 51 49 64 49 53 72 88
+WIND DIR         SE SE  S  S  S  S  S  S SW  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     11 14 19 20 20 19 19 18 22 28 35 35 35 00 01 01 01 01 01 01 00
+WIND SPD          1  1  1  1  2  4  5  5  3  6 10 11 10 11 12 10  8  6  6  5  4
+CLOUDS           OV OV B2 B2 B2 OV OV OV OV OV OV B2 B1 SC SC FW FW SC B1 B1 B2
+CLOUDS(%)        96 92 85 80 87 97100100100 98 95 78 61 45 30 25 21 36 51 60 70
+VSBY             10 10 10 10  6  6  4  4  6  6  6  6 10 10 10 10 10 10 10 10  9
+POP 12HR                     30         100          70          10          10
+QPF 12HR                   0.01        0.40        0.17           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                    C  C  D  D  L  L  C  S                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     2     2     4     4     4     4
+MIX HGT               300   300   600   700  1500  1500  2200  2500   900   500
+T WIND DIR             SE     S     S     S    NW     N     N     N    NE    NE
+T WIND SPD              4     0     4     9    19    26    24    21    18    16
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     3     1     7    12    27    41    45    45    16    18
+MAX LVORI               8     8     6     6     5     4     4     3     2     5
+STABILITY               D     D     B     D     D     D     C     C     F     E
+CEILING              3200  6500  1000  1000  1000  1000  3200 30000 26600  1700
+PRESSURE            30.26 30.20 30.12  30.0 29.96 30.09 30.26 30.32 30.43 30.43
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          45    37    52    31    46    28    48    29    50
+TEMP          42 37 39 38 50 41 35 32 44 36 32 29 46 38 33 30 48 40
+DEWPT         37 37 37 37 38 34 29 26 26 26 24 23 25 27 26 25 29 30
+MIN/MAX RH       75   100    54    82    43    78    40    81    42
+RH            81100 92 94 64 76 79 78 49 67 72 78 43 65 75 81 47 67
+WIND DIR      NE  N  N NW  W  W  W  W NW NW NW  W  W  W  W NW SW  S
+WIND SPD       5  3  3  3  6  6  5  4  9  3  3  3  3  1  3  1  2  1
+AVG CLOUDS    B2 B2 OV B2 B1 SC SC SC SC SC SC SC SC FW SC SC SC SC
+POP 12HR         30    40    20    10     5     0     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+VAZ096-060900-
+GREAT DISMAL SWAMP RAWS-SUFFOLK VA
+36.61N  76.55W ELEV. 35 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      47          65          43          48          39
+TEMP             49 50 49 48 49 60 63 63 59 58 53 48 44 43 47 47 42 46 44 42 40
+DEWPT            46 46 47 47 48 52 57 56 56 52 49 46 42 39 36 35 35 36 37 38 40
+MAX/MIN RH                  100          72          94          60          95
+RH               89 87 92 96 96 76 81 79 91 80 85 92 92 85 66 63 75 67 76 87 99
+WIND DIR          E  N  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N NE
+WIND DIR DEG     07 02 34 28 21 21 20 18 18 26 34 35 00 00 01 01 02 02 02 02 03
+WIND SPD          2  2  1  1  2  5  5  4  5  9 10 14 14 16 16 14 12 11 11 10  9
+CLOUDS           B2 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC SC B1 B2
+CLOUDS(%)        71 77 80 78 79 89 96 98100100 99 95 90 70 51 40 29 39 50 60 71
+VSBY             10 10 10 10 10  6  5  4  5  6  6  6  6 10 10 10  5  5  5  5  6
+POP 12HR                     10          90          70          20          10
+QPF 12HR                      0        0.23        0.24           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     3     4     4
+MIX HGT               300   300  1000  1100  1700  1400  2500  2800  1800  1200
+T WIND DIR             NE     N     S     W     W     N     N     N     N    NE
+T WIND SPD              2     2    10    10    13    27    27    28    26    23
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    FR    PR
+ADI                     3     2    26    23    28    36    59    65    33    30
+MAX LVORI               8    10     6     6     5     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     D     D     E     D
+CEILING              8000  8000  3600  2400  1700  1000  1400  3200  2400  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.09 30.26 30.34 30.42 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          51    41    53    34    46    31    48    32    50
+TEMP          45 42 43 42 52 43 38 35 45 38 34 32 46 39 35 33 48 41
+DEWPT         45 42 41 40 43 38 32 29 29 29 27 26 29 30 28 28 33 33
+MIN/MAX RH       86   100    60    87    49    79    45    82    47
+RH            99100 93 95 70 84 81 80 53 70 76 79 51 70 75 83 54 73
+WIND DIR      NE  N  N NW  W  W NW NW NW  W NW NW NW NW NW  N NW NW
+WIND SPD      10  8  5  6  6  8  9  6 10  5  5  4  4  3  2  3  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     5     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+VAZ098-060900-
+BACK BAY NWR RAWS-VIRGINIA BEACH VA
+36.68N  75.93W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      50          63          45          51          44
+TEMP             53 53 53 54 53 59 63 62 57 55 52 47 46 47 48 50 49 48 47 45 45
+DEWPT            49 49 50 51 52 53 55 55 55 52 50 47 46 43 40 40 40 41 42 43 43
+MAX/MIN RH                   94          71         100          65          93
+RH               86 87 91 91 95 79 75 79 94 91 94100100 86 75 70 71 76 83 91 94
+WIND DIR         NE NE  E SE  S  S  S  S  S  W  N  N  N  N  N  N NE NE NE NE NE
+WIND DIR DEG     05 06 08 14 19 19 20 18 18 26 34 35 00 00 01 02 02 03 03 04 04
+WIND SPD          4  4  3  3  3  6  6  6  9 11 16 21 24 25 26 25 24 23 21 20 19
+CLOUDS           B1 B2 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 SC SC SC SC B1 B1
+CLOUDS(%)        69 76 80 79 78 85 90 95100100100 95 90 75 60 45 29 39 48 59 69
+VSBY             10 10 10 10 10  6  6  4  4  4  6  6  6  6 10 10  5  5  5  5  6
+POP 12HR                     10          90          80          20          10
+QPF 12HR                      0        0.17        0.29           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       S  L  D  D  D  L  C  S  S                     
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     4     4
+MIX HGT               300   300  1100  1000  1600  1800  2500  2800  2000  1900
+T WIND DIR              E    NE    SE     S     N     N     N     N    NE    NE
+T WIND SPD              5     3     8     6    11    34    37    41    40    36
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    VG    GD    GD
+ADI                     7     4    18    17    29    70    86    98    57    67
+MAX LVORI               8     9     6     8     7     4     4     3     4     4
+STABILITY               E     F     C     C     D     D     D     D     D     D
+CEILING              8900  8000  8000  4000   300   300  1000  1700  1000  1000
+PRESSURE            30.36 30.29 30.23 30.11 30.04 30.09 30.26 30.34 30.42 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          53    46    52    39    45    37    47    40    49
+TEMP          48 50 48 46 51 45 41 39 44 41 39 38 46 43 41 40 48 44
+DEWPT         47 48 46 45 43 40 36 33 31 31 30 30 30 31 31 32 34 35
+MIN/MAX RH       85    96    65    85    54    74    50    73    54
+RH            98 93 94 96 74 83 80 80 59 66 71 73 53 62 67 74 59 69
+WIND DIR      NE NE  N NW  W  W NW NW NW NW NW NW NW NW NW  N NW NW
+WIND SPD      16 13 10 11 10 12 16 13 13 10 10 10  9  6  4  4  4  2
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         40    50    20    10     5     5     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+NCZ014-060900-
+BUCKLAND ELEMENTARY-GATES NC
+36.37N  76.76W ELEV. 25 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          65          43          49          37
+TEMP             48 49 48 48 49 59 63 62 59 58 53 47 43 44 47 47 42 46 43 40 37
+DEWPT            45 46 46 47 48 52 56 56 56 52 49 45 42 39 36 35 34 34 35 37 37
+MAX/MIN RH                   97          71          96          59         100
+RH               89 89 93 96 95 78 78 80 90 80 87 93 96 81 65 63 73 65 73 89100
+WIND DIR          E NE  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     08 02 35 28 21 21 19 19 19 26 34 35 00 00 01 01 01 01 01 02 02
+WIND SPD          3  2  1  1  2  4  5  4  4  8 10 13 13 14 16 13 10 10 10  9  8
+CLOUDS           B2 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        70 74 78 77 79 90 96 98100 99 97 94 90 71 52 41 29 40 51 61 71
+VSBY             10 10 10 10 10  6  4  4  6  6  6  6 10 10 10 10  5  5  5  5  6
+POP 12HR                     10          90          70          10          10
+QPF 12HR                      0        0.24        0.21           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     3     3     4
+MIX HGT               300   300  1000  1100  1600  1400  2300  2500  1600  1100
+T WIND DIR             NE    NE     S     W     W     N     N     N     N     N
+T WIND SPD              3     2     8     6    14    26    25    27    25    18
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     3     2    22    19    28    35    51    58    32    20
+MAX LVORI               8    10     7     6     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     D     D     E     D
+CEILING              8000  8000  3900  5700  2100  1000  1700  3200  3200  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.09 30.26 30.34 30.43 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    40    52    33    46    30    48    30    50
+TEMP          44 41 42 41 51 42 37 34 45 37 33 31 46 38 34 31 48 40
+DEWPT         44 41 40 39 41 37 31 28 28 29 27 25 28 30 28 27 31 32
+MIN/MAX RH       90   100    60    86    47    80    43    85    46
+RH           100100 94 94 69 83 80 79 52 71 77 78 49 72 77 85 52 74
+WIND DIR      NE  N  N NW  W  W NW NW NW  W NW NW NW NW NW  N NW NW
+WIND SPD      10  5  4  4  6  5  6  5  9  4  4  3  3  2  2  2  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC FW FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     0     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+NCZ015-060900-
+ELIZABETH CITY RAWS-PASQUOTANK NC
+36.21N  76.16W ELEV. 15 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      47          66          44          51          41
+TEMP             51 53 51 50 51 60 64 63 57 56 51 46 44 46 49 47 47 47 45 42 41
+DEWPT            48 49 49 50 50 53 56 56 55 53 50 46 44 44 41 40 39 41 42 42 41
+MAX/MIN RH                   99          70         100          70         100
+RH               87 84 93 99 95 78 75 78 94 91 99100100 92 74 76 75 79 90100100
+WIND DIR         NE NE NE  E  S  S  S  S  S  W NW  N  N  N  N  N  N  N NE NE NE
+WIND DIR DEG     05 04 03 11 18 20 20 18 18 26 33 35 00 00 01 01 02 02 03 03 03
+WIND SPD          4  3  3  2  3  5  5  5  6  9 10 16 19 20 21 20 18 17 16 16 13
+CLOUDS           B1 B1 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 B1 SC SC SC B1 B1
+CLOUDS(%)        61 64 78 75 77 84 89 95100100100 95 90 78 66 51 36 43 50 59 69
+VSBY             10 10 10 10 10  6  6  6  6  6  6  6  6  6 10 10  5  5  5  5  6
+POP 12HR                     10          80          70          20          10
+QPF 12HR                      0        0.14        0.25           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          C
+RAIN SHWRS                       S  L  L  L  L  L  C  S  S                     
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     3
+MIX HGT               300   300  1200  1100  1400  1200  2600  2900  1900  1400
+T WIND DIR             NE    NE     S     S     W     N     N     N     N    NE
+T WIND SPD              4     2     8     5    11    27    33    34    32    31
+SMOKE DISP             PR    PR    PR    PR    PR    PR    GD    GD    FR    PR
+ADI                     6     4    19    17    21    44    75    85    37    48
+MAX LVORI               8    10     6     8     6     5     4     3     4     4
+STABILITY               F     F     C     C     D     D     D     D     D     D
+CEILING              8900  8900  4700  3200   300  1000  1000  1700  1400  1000
+PRESSURE            30.36 30.29 30.23 30.11 30.04 30.09 30.25 30.31 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          54    44    54    37    46    34    48    37    51
+TEMP          48 49 46 45 53 44 40 37 45 40 36 35 46 42 39 38 49 44
+DEWPT         48 49 45 44 44 40 35 31 31 30 29 29 30 32 30 31 34 35
+MIN/MAX RH       95   100    62    85    51    78    48    77    49
+RH           100 99 97 99 71 84 82 79 57 68 76 77 53 66 72 77 55 70
+WIND DIR      NE NE  N NW  W  W NW NW NW NW NW NW NW NW NW  N NW NW
+WIND SPD      16 11  9  9  6  9 12 10 10  8  8  8  5  4  4  4  3  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     0     0     0     0
+RAIN           C  C  C  C  S  S                                    
+
+$$
+
+NCZ030-060900-
+PEANUT BELT RESEARCH STATION NC-BERTIE NC
+36.13N  77.18W ELEV. 61 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          65          42          49          37
+TEMP             48 49 48 49 50 57 63 62 59 58 53 46 43 43 47 46 42 46 44 40 37
+DEWPT            46 46 46 47 47 52 57 56 56 52 49 45 42 38 35 33 31 32 33 35 36
+MAX/MIN RH                   93          75         100          57          91
+RH               93 89 93 92 89 83 80 81 90 81 86 96 96 81 64 60 65 59 66 81 96
+WIND DIR          E NE  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     07 03 01 29 21 21 19 18 19 27 35 35 35 00 01 01 01 01 01 01 01
+WIND SPD          2  2  1  1  1  3  4  3  4  6 10 11 11 12 14 12 10 10 10  9  6
+CLOUDS           B1 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        68 70 75 79 80 89 97 99100 98 95 89 88 71 55 42 30 40 51 61 71
+VSBY             10 10 10 10 10  6  4  4  6  6  6  6 10 10 10 10 10 10 10 10  6
+POP 12HR                     10          80          70          10          10
+QPF 12HR                      0        0.24        0.15           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  S                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     2
+MIX HGT               300   300  1000  1000  1600  1500  2200  3000  1500  1000
+T WIND DIR              E    NE     S     W     W     N     N     N     N     N
+T WIND SPD              5     2     5     5    13    26    24    26    24    17
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    PR    PR
+ADI                     4     1    15    12    27    35    47    63    30    19
+MAX LVORI               7     8     7     6     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     C     C     E     E
+CEILING              8000  8000  3200  6500   300  1000  1700  3200  3200  1700
+PRESSURE            30.30 30.25 30.17 30.05 30.01 30.07 30.25 30.30 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          49    39    53    32    46    29    48    29    51
+TEMP          44 41 41 40 51 42 36 33 44 37 32 30 46 38 33 30 49 40
+DEWPT         43 41 39 38 40 36 31 27 27 28 26 24 26 29 27 26 30 32
+MIN/MAX RH       86   100    56    82    45    78    41    85    44
+RH            95100 94 94 66 79 82 78 51 70 78 78 45 71 78 85 48 72
+WIND DIR      NE  N  N NW  W  W NW NW NW NW NW NW NW  W  W NW  W NW
+WIND SPD       8  5  3  3  5  4  5  3  6  3  3  3  3  1  1  1  2  2
+AVG CLOUDS    B2 OV OV B2 B1 SC SC FW FW FW FW SC SC SC SC FW SC FW
+POP 12HR         40    40    10    10     5     0     0     0     0
+RAIN           S  C  C  C                                          
+
+$$
+
+NCZ030-060900-
+GREEN CROSS RAWS-BERTIE NC
+36.01N  76.90W ELEV. 52 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          66          44          49          38
+TEMP             49 51 49 49 50 59 64 63 59 58 53 47 44 46 48 47 44 46 44 40 38
+DEWPT            47 47 47 48 48 53 57 57 57 54 51 47 43 40 37 35 34 35 36 38 38
+MAX/MIN RH                   96          74         100          60         100
+RH               93 86 93 95 93 80 80 83 95 86 92100 98 81 65 64 68 65 73 92100
+WIND DIR          E NE  N  W  S SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     07 03 01 28 19 21 20 18 19 27 34 35 35 00 01 01 01 01 01 01 01
+WIND SPD          3  2  1  1  1  3  3  3  4  6  9 12 11 13 14 12 10 10 10  9  6
+CLOUDS           B1 B1 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        62 65 75 76 78 87 95 98100 98 96 92 89 75 60 47 34 42 51 60 70
+VSBY             10 10 10 10 10  6  6  4  6  6  6  6 10 10 10 10  5  5  5  5  6
+POP 12HR                     10          80          70          10          10
+QPF 12HR                      0        0.19        0.18           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          C
+RAIN SHWRS                       C  L  D  L  L  C  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     2
+MIX HGT               300   300  1100  1100  1700  1500  2300  3000  1700  1300
+T WIND DIR              E    NE     S     W     W     N     N     N     N     N
+T WIND SPD              5     2     8     6    11    25    25    26    26    18
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    PR    PR
+ADI                     4     1    24    20    24    34    50    61    28    21
+MAX LVORI               7     8     8     8     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     C     C     E     E
+CEILING              8900  8000  4000  2400   700  1000  1000  2400  2400  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.07 30.25 30.31 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          51    40    53    33    46    30    49    30    51
+TEMP          45 44 43 41 52 42 37 34 45 37 33 31 47 39 34 31 49 41
+DEWPT         45 44 41 40 42 38 32 28 28 29 27 25 28 30 28 27 31 33
+MIN/MAX RH       90   100    58    89    47    78    42    85    46
+RH            99100 93 96 69 86 82 78 51 72 77 78 47 71 78 85 50 73
+WIND DIR      NE  N  N NW  W  W NW NW NW NW NW NW NW NW NW  N  W NW
+WIND SPD      10  5  4  4  5  4  5  3  6  3  3  3  3  1  2  2  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC FW FW FW FW SC SC SC SC FW SC SC
+POP 12HR         40    40    10    10     5     0     0     0     0
+RAIN           C  C  C  C                                          
+
+$$
+
+EXPERIMENTAL ONLY...THIS PRODUCT IS FOR PLANNING AND REVIEW PURPOSES ONLY AND
+IS NOT TO BE SUBSTITUTED FOR AN OFFICIAL FIRE WEATHER SPOT
+FORECAST.
+BELOW IS A WEATHER ELEMENT KEY FOR THIS PRODUCT.
+(NOTE...WINDS DO NOT REFLECT LOCAL TERRAIN EFFECTS.)
+
+DAY 1 THROUGH 3...
+MAX/MIN TEMP OR MIN/MAX TEMP(F).....MAXIMUM/MINIMUM AIR TEMPERATURE
+TEMP(F).............................AIR TEMPERATURE
+DEWPT(F)............................DEW POINT TEMPERATURE
+MIN/MAX RH OR MAX/MIN RH(%).........MAXIMUM/MINIMUM HUMIDITY
+RH(%)...............................RELATIVE HUMIDITY
+WIND DIR(8 POINT COMPASS)...........20 FT. WIND DIRECTION
+WIND DIR DEG(DEGREES)...............20 FT. WIND DIRECTION IN TENS OF DEGREES
+                                    RELATIVE TO DUE NORTH.
+     EXAMPLE: 09 = 90 DEGREES = EAST; 18 = 180 DEGREES = SOUTH;
+              27 = 270 DEGREES = WEST; 36 = 360 DEGREES = NORTH
+WIND SPD(MPH).......................20 FT. WIND SPEED
+WIND GUST(MPH)......................20 FT. WIND GUST
+WIND CHILL..........................WIND CHILL TEMPERATURE
+HEAT INDX...........................HEAT INDEX
+CLOUDS(CAT).........................CLOUD COVER CATEGORY
+     EXAMPLE: CL = CLEAR; FW = FEW; SC = SCATTERED;
+              B1 = MOSTLY CLOUDY; B2 = CONSIDERABLE CLOUDS; OV = OVERCAST
+CLOUDS(%)...........................CLOUD COVER AS A PERCENTAGE
+VSBY................................VISIBILITY VALUE IN STATUTE MILES
+POP 12HR(%).........................PROBABILITY FOR ACCUMULATING PRECIPITATION
+QPF 12HR(IN)........................LIQUID EQUIVALENT PRECIPITATION AMOUNT
+WEATHER...
+     TYPE...
+       RAIN...........RAIN
+       RAIN SHWRS.....RAIN SHOWERS
+       TSTMS..........THUNDERSTORMS
+       DRIZZLE........DRIZZLE
+       SNOW...........SNOW
+       SNOWSHWRS......SNOW SHOWERS
+       SLEET..........SLEET
+       FLURRIES.......FLURRIES
+       FRZG RAIN......FREEZING RAIN
+       FRZG DRZL......FREEZING DRIZZLE
+     COVERAGE...
+       S..............SLIGHT CHANCE
+       C..............CHANCE
+       L..............LIKELY
+       O..............OCCASIONAL
+       D..............DEFINITE
+       AR.............AREAS
+       PA.............PATCHY
+OBVIS...............................OBSTRUCTION TO VISIBILITY
+     TYPE...
+       F..............FOG
+       PF.............PATCHY FOG
+       F+.............DENSE FOG
+       H..............HAZE
+       BS.............BLOWING SNOW
+       K..............SMOKE
+       BD.............BLOWING DUST
+       AF.............VOLCANIC ASHFALL
+LAL(CAT)............................LIGHTNING ACTIVITY LEVEL
+HAINES(CAT).........................HAINES INDEX
+MIX HGT(FT AGL).....................MIXING HEIGHT
+T WIND DIR(8 POINT COMPASS).........TRANSPORT WIND DIRECTION
+T WIND SPD(MPH).....................TRANSPORT WIND SPEED
+SMOKE DISPERSION....................SMOKE DISPERSION CATEGORY
+     VALUES: VP = VERY POOR; PR = POOR; FR = FAIR; GD = GOOD
+ADI (INDEX).........................ATMOSPHERIC DISPERSION INDEX
+CEILING (FT)........................CEILING
+PRESSURE (INCHES MERCURY)...........STATION PRESSURE
+MAX LVORI (INDEX)...................LOW VISIBILITY OCCURRENCE RISK INDEX
+STABILITY (CAT).....................PASQUILL TURNER STABILITY
+WATCH/WARNING/ADVISORY...
+     EXAMPLE: W = WARNING; Y = ADVISORY; A = WATCH
+     IN EFFECT FOR THE INDICATED HOUR 
+
+DAY 4 THROUGH 7...
+MAX/MIN TEMP OR MIN/MAX TEMP(F).....MAXIMUM/MINIMUM AIR TEMPERATURE
+TEMP(F).............................AIR TEMPERATURE
+DEWPT(F)............................DEW POINT TEMPERATURE
+RH(%)...............................RELATIVE HUMIDITY
+WIND DIR............................20 FT. WIND DIRECTION
+WIND SPD(MPH).......................20 FT. WIND SPEED
+AVG CLOUDS(CAT).....................AVERAGE CLOUD COVER CATEGORY
+POP 12HR(%).........................PROBABILITY FOR ACCUMULATING PRECIPITATION
+WEATHER...
+     SEE DAY 1 THROUGH 3 WEATHER DESCRIPTIONS
+AKQ-219752
+
+
+133 
+FOUS54 KAKQ 052220
+PFWAKQ
+FOUS54 KAKQ 052220
+PFWAKQ
+
+EXPERIMENTAL...FIRE WEATHER POINT FORECAST MATRICES
+NATIONAL WEATHER SERVICE WAKEFIELD VA
+520 PM EST FRI DEC 5 2014
+
+MDZ021-060900-
+BLACKWATER NWR RAWS-DORCHESTER MD
+38.42N  76.00W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      42          58          38          47          32
+TEMP             43 43 44 45 46 51 55 55 51 50 47 43 39 39 44 44 37 42 40 36 33
+DEWPT            42 43 44 45 46 49 51 51 51 47 42 40 37 33 29 28 27 28 28 29 31
+MAX/MIN RH                  100          80         100          50          88
+RH               96100100100100 91 86 87100 89 83 88 92 79 56 54 67 56 62 75 91
+WIND DIR         SE SE  S  S  S  S  S  S SW  W  N  N  N  N  N  N  N  N NE NE NE
+WIND DIR DEG     12 15 20 19 19 19 18 18 21 28 34 34 35 00 01 02 02 02 03 03 04
+WIND SPD          3  3  3  3  4  4  6  6  3  9 14 16 16 16 16 12 10 10 10  9  8
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV B2 B1 SC FW FW FW SC SC B1 B1
+CLOUDS(%)       100100 98 93 91 95100100100100100 80 60 41 24 19 14 29 44 55 67
+VSBY              5  6  6 10 10  6  4  4  4  6  6  6 10 10 10 10 10 10 10 10 10
+POP 12HR                     30         100          80          10          10
+QPF 12HR                   0.01        0.32        0.34           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 C  S                                                      
+RAIN SHWRS        C              C  D  D  D  L  L  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  3     3     3     3     3     2     4     4     4     4
+MIX HGT               300   300   500   500   500   800  2300  2600  1400   800
+T WIND DIR              S     S     S    SE    NW     N     N    NE    NE    NE
+T WIND SPD              2     3     5     5    19    29    27    24    16    13
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     4     4     9     8    24    34    55    56    13    15
+MAX LVORI              10     9     9     8     8     4     4     3     2     5
+STABILITY               D     D     C     D     D     D     D     D     E     D
+CEILING              3200  4000  8000  1000   500  1000  9900 30000 26600 23500
+PRESSURE            30.37 30.29 30.21 30.10 30.05 30.17 30.36 30.45 30.56 30.56
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          45    37    49    33    44    31    45    32    46
+TEMP          40 37 39 38 48 40 36 34 43 37 33 32 43 38 35 33 44 40
+DEWPT         39 37 37 36 40 36 30 28 27 27 25 24 26 28 27 28 30 31
+MIN/MAX RH       85   100    62    85    48    74    46    82    51
+RH            95100 95 95 74 84 79 79 53 67 70 74 52 67 75 84 57 72
+WIND DIR      NE NE NE NW  W  W  W  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD       8  6  4  5  8 12 12 12 13 10 10  9 10  4  4  4  5  3
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10     5     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+MDZ022-060900-
+POWELLVILLE RAWS - WICOMICO MD
+38.35N  75.42W ELEV. 16 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      44          61          39          48          33
+TEMP             45 45 47 48 48 54 57 57 54 53 48 44 40 42 46 44 38 43 40 37 34
+DEWPT            43 44 45 46 46 50 54 53 52 48 44 41 38 34 31 30 29 30 32 33 34
+MAX/MIN RH                   97          81          94          53          97
+RH               94 96 95 94 94 87 89 86 94 84 84 89 92 74 56 57 69 61 73 86100
+WIND DIR          E SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     11 13 18 18 19 19 19 19 19 27 35 00 00 01 02 03 03 03 04 04 05
+WIND SPD          3  2  2  3  3  4  8  8  6 10 14 17 17 18 19 16 12 12 13 12 11
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        95 96 98 93 92 93 99100100100100 93 87 57 28 21 14 28 41 54 66
+VSBY              5  6  6 10 10  6  4  4  4  4  6  6  6 10 10 10 10 10 10 10 10
+POP 12HR                     30         100          80          20          10
+QPF 12HR                      0        0.24        0.48           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S  S                                                      
+RAIN SHWRS        C              C  D  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  3     3     3     3     3     2     4     4     4     4
+MIX HGT               300   300   700   700   900   900  2400  2700  1500  1000
+T WIND DIR             SW     S     S     S     W     N     N    NE    NE    NE
+T WIND SPD              1     2     8     5    13    32    29    26    20    24
+SMOKE DISP             PR    PR    PR    PR    PR    PR    GD    GD    PR    PR
+ADI                     1     4    11     9    23    38    62    63    25    29
+MAX LVORI              10     9     6     7     6     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     E     D
+CEILING              3200  4000  8000  1000   300  1000  3200 30000 30000  1000
+PRESSURE            30.34 30.27 30.18 30.07 30.01 30.09 30.28 30.38 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          48    39    49    32    44    31    45    33    46
+TEMP          43 39 41 40 48 40 35 33 43 37 34 32 43 39 35 34 45 40
+DEWPT         41 39 39 38 40 36 30 29 28 27 25 25 26 28 27 28 30 31
+MIN/MAX RH       85   100    65    88    50    75    46    80    51
+RH            92100 92 93 75 85 82 84 56 68 71 75 51 65 71 81 56 70
+WIND DIR      NE NE NE NW  W  W  W  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      12 10  8  9  9 12 14 13 14 11 10 10 10  6  6  5  6  5
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10    10     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+MDZ025-060900-
+ASSATEAGUE ISLAND RAWS - WORCHESTER MD
+38.08N  75.20W ELEV. 12 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          58          43          49          39
+TEMP             47 47 48 49 50 53 55 54 52 53 50 47 43 45 48 46 43 46 44 42 39
+DEWPT            45 47 48 49 50 51 53 53 52 50 46 44 42 39 36 35 35 36 38 38 39
+MAX/MIN RH                  100          87         100          60          95
+RH               96 98100100100 95 94 97100 89 85 90 97 79 63 66 73 69 77 85 99
+WIND DIR         SE SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     12 13 16 18 19 18 19 18 18 26 35 00 00 01 02 02 03 03 04 05 05
+WIND SPD          6  5  6  5  6  6 10  9 10 13 17 24 26 26 26 25 24 23 21 20 19
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV OV B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        93 94 96 92 89 92 95 98100100100 95 90 60 30 22 14 28 41 53 64
+VSBY              5  6 10 10 10  6  6  4  4  4  6  6  6 10 10 10  5  5  5  5 10
+POP 12HR                     20         100          80          20          10
+QPF 12HR                      0        0.19        0.50           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S                                                         
+RAIN SHWRS        S              C  L  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     3     2     3     4     4     4
+MIX HGT               300   300   600   500  1100  1500  2500  2700  1900  1700
+T WIND DIR             SE     S     S     S    SW     N     N    NE    NE    NE
+T WIND SPD              4     2     5     5    11    36    39    39    36    34
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    GD    GD    FR
+ADI                     6     4     7     6    23    63    89    89    43    59
+MAX LVORI              10    10     9     9     9     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     D     D
+CEILING              8000  4000  8000  1700   700  1000  1900 30000  1700  1000
+PRESSURE            30.37 30.30 30.22 30.11 30.05 30.09 30.28 30.39 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    44    49    37    43    36    44    38    45
+TEMP          47 44 45 44 48 43 39 37 42 39 37 36 43 41 39 38 44 42
+DEWPT         44 44 44 43 43 39 34 32 31 30 29 28 29 30 29 30 32 33
+MIN/MAX RH       86   100    70    87    57    74    53    72    58
+RH            91100 99 99 81 86 81 81 64 70 71 74 57 66 68 73 62 72
+WIND DIR      NE NE NE  N  W  W NW  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      17 14 10 12 10 16 18 18 17 16 14 14 13 11 10  9  8  8
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10    10     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+VAZ099-060900-
+CHINCOTEAGUE RAWS - ACCOMACK VA
+37.99N  75.29W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          58          43          48          39
+TEMP             47 47 47 49 50 53 55 54 52 53 52 48 43 44 48 46 43 46 45 43 39
+DEWPT            46 47 47 49 50 51 53 53 52 50 46 44 43 39 36 35 35 36 37 38 39
+MAX/MIN RH                  100          87         100          60          95
+RH               93 98100100100 95 93 97100 87 83 88 97 81 63 65 72 68 73 82 99
+WIND DIR          E SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     11 12 16 18 19 18 19 18 18 26 34 00 00 01 02 02 03 03 04 05 05
+WIND SPD          6  5  5  5  6  6 10  9 10 12 16 24 26 26 26 25 23 23 21 20 19
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV OV B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        92 93 95 91 88 91 94 97100100100 95 90 60 30 22 14 28 42 53 64
+VSBY              5  9 10 10 10  6  5  4  4  4  6  6  6 10 10 10  5  5  5  5 10
+POP 12HR                     20         100          80          20          10
+QPF 12HR                      0        0.19        0.48           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S                                                         
+RAIN SHWRS        S              C  L  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     3     2     3     4     4     4
+MIX HGT               300   300   600   500  1300  1600  2400  2600  2000  1800
+T WIND DIR             SE     S     S     S    SW     N     N    NE    NE    NE
+T WIND SPD              4     2     5     5    12    36    37    39    36    34
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    GD    GD    FR
+ADI                     6     4     7     7    29    64    87    87    50    60
+MAX LVORI              10    10     9     9     9     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     D     D
+CEILING              8000  4300  8000  1700   300  1000  1700 30000  1700  1200
+PRESSURE            30.37 30.30 30.22 30.11 30.05 30.09 30.28 30.38 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    43    49    37    43    35    44    37    45
+TEMP          47 43 44 43 48 43 39 37 42 39 37 35 43 40 38 37 44 41
+DEWPT         44 43 44 43 42 38 34 31 30 30 28 28 29 30 29 30 32 33
+MIN/MAX RH       85   100    70    86    57    74    52    74    58
+RH            91100 97 99 81 84 81 79 63 70 70 74 57 66 70 76 63 73
+WIND DIR      NE NE NE  N  W  W NW  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      17 14 10 12 10 16 18 17 16 16 14 14 13 10  9  8  6  6
+AVG CLOUDS    B1 B2 OV OV B1 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10     5     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+VAZ081-060900-
+JAMES RIVER NWR RAWS-PRINCE GEORGE VA
+37.25N  77.25W ELEV. 50 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      44          61          40          49          32
+TEMP             45 46 46 46 47 52 58 60 56 57 53 45 41 42 47 47 39 46 44 37 33
+DEWPT            43 44 44 44 44 49 53 53 53 48 43 40 37 33 30 29 28 28 28 29 30
+MAX/MIN RH                   93          74          91          45          88
+RH               93 91 93 93 89 89 84 78 91 73 69 82 86 71 51 49 64 49 53 72 88
+WIND DIR         SE SE  S  S  S  S  S  S SW  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     11 14 19 20 20 19 19 18 22 28 35 35 35 00 01 01 01 01 01 01 00
+WIND SPD          1  1  1  1  2  4  5  5  3  6 10 11 10 11 12 10  8  6  6  5  4
+CLOUDS           OV OV B2 B2 B2 OV OV OV OV OV OV B2 B1 SC SC FW FW SC B1 B1 B2
+CLOUDS(%)        96 92 85 80 87 97100100100 98 95 78 61 45 30 25 21 36 51 60 70
+VSBY             10 10 10 10  6  6  4  4  6  6  6  6 10 10 10 10 10 10 10 10  9
+POP 12HR                     30         100          70          10          10
+QPF 12HR                   0.01        0.40        0.17           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                    C  C  D  D  L  L  C  S                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     2     2     4     4     4     4
+MIX HGT               300   300   600   700  1500  1500  2200  2500   900   500
+T WIND DIR             SE     S     S     S    NW     N     N     N    NE    NE
+T WIND SPD              4     0     4     9    19    26    24    21    18    16
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     3     1     7    12    27    41    45    45    16    18
+MAX LVORI               8     8     6     6     5     4     4     3     2     5
+STABILITY               D     D     B     D     D     D     C     C     F     E
+CEILING              3200  6500  1000  1000  1000  1000  3200 30000 26600  1700
+PRESSURE            30.26 30.20 30.12  30.0 29.96 30.09 30.26 30.32 30.43 30.43
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          45    37    52    31    46    28    48    29    50
+TEMP          42 37 39 38 50 41 35 32 44 36 32 29 46 38 33 30 48 40
+DEWPT         37 37 37 37 38 34 29 26 26 26 24 23 25 27 26 25 29 30
+MIN/MAX RH       75   100    54    82    43    78    40    81    42
+RH            81100 92 94 64 76 79 78 49 67 72 78 43 65 75 81 47 67
+WIND DIR      NE  N  N NW  W  W  W  W NW NW NW  W  W  W  W NW SW  S
+WIND SPD       5  3  3  3  6  6  5  4  9  3  3  3  3  1  3  1  2  1
+AVG CLOUDS    B2 B2 OV B2 B1 SC SC SC SC SC SC SC SC FW SC SC SC SC
+POP 12HR         30    40    20    10     5     0     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+VAZ096-060900-
+GREAT DISMAL SWAMP RAWS-SUFFOLK VA
+36.61N  76.55W ELEV. 35 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      47          65          43          48          39
+TEMP             49 50 49 48 49 60 63 63 59 58 53 48 44 43 47 47 42 46 44 42 40
+DEWPT            46 46 47 47 48 52 57 56 56 52 49 46 42 39 36 35 35 36 37 38 40
+MAX/MIN RH                  100          72          94          60          95
+RH               89 87 92 96 96 76 81 79 91 80 85 92 92 85 66 63 75 67 76 87 99
+WIND DIR          E  N  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N NE
+WIND DIR DEG     07 02 34 28 21 21 20 18 18 26 34 35 00 00 01 01 02 02 02 02 03
+WIND SPD          2  2  1  1  2  5  5  4  5  9 10 14 14 16 16 14 12 11 11 10  9
+CLOUDS           B2 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC SC B1 B2
+CLOUDS(%)        71 77 80 78 79 89 96 98100100 99 95 90 70 51 40 29 39 50 60 71
+VSBY             10 10 10 10 10  6  5  4  5  6  6  6  6 10 10 10  5  5  5  5  6
+POP 12HR                     10          90          70          20          10
+QPF 12HR                      0        0.23        0.24           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     3     4     4
+MIX HGT               300   300  1000  1100  1700  1400  2500  2800  1800  1200
+T WIND DIR             NE     N     S     W     W     N     N     N     N    NE
+T WIND SPD              2     2    10    10    13    27    27    28    26    23
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    FR    PR
+ADI                     3     2    26    23    28    36    59    65    33    30
+MAX LVORI               8    10     6     6     5     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     D     D     E     D
+CEILING              8000  8000  3600  2400  1700  1000  1400  3200  2400  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.09 30.26 30.34 30.42 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          51    41    53    34    46    31    48    32    50
+TEMP          45 42 43 42 52 43 38 35 45 38 34 32 46 39 35 33 48 41
+DEWPT         45 42 41 40 43 38 32 29 29 29 27 26 29 30 28 28 33 33
+MIN/MAX RH       86   100    60    87    49    79    45    82    47
+RH            99100 93 95 70 84 81 80 53 70 76 79 51 70 75 83 54 73
+WIND DIR      NE  N  N NW  W  W NW NW NW  W NW NW NW NW NW  N NW NW
+WIND SPD      10  8  5  6  6  8  9  6 10  5  5  4  4  3  2  3  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     5     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+VAZ098-060900-
+BACK BAY NWR RAWS-VIRGINIA BEACH VA
+36.68N  75.93W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      50          63          45          51          44
+TEMP             53 53 53 54 53 59 63 62 57 55 52 47 46 47 48 50 49 48 47 45 45
+DEWPT            49 49 50 51 52 53 55 55 55 52 50 47 46 43 40 40 40 41 42 43 43
+MAX/MIN RH                   94          71         100          65          93
+RH               86 87 91 91 95 79 75 79 94 91 94100100 86 75 70 71 76 83 91 94
+WIND DIR         NE NE  E SE  S  S  S  S  S  W  N  N  N  N  N  N NE NE NE NE NE
+WIND DIR DEG     05 06 08 14 19 19 20 18 18 26 34 35 00 00 01 02 02 03 03 04 04
+WIND SPD          4  4  3  3  3  6  6  6  9 11 16 21 24 25 26 25 24 23 21 20 19
+CLOUDS           B1 B2 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 SC SC SC SC B1 B1
+CLOUDS(%)        69 76 80 79 78 85 90 95100100100 95 90 75 60 45 29 39 48 59 69
+VSBY             10 10 10 10 10  6  6  4  4  4  6  6  6  6 10 10  5  5  5  5  6
+POP 12HR                     10          90          80          20          10
+QPF 12HR                      0        0.17        0.29           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       S  L  D  D  D  L  C  S  S                     
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     4     4
+MIX HGT               300   300  1100  1000  1600  1800  2500  2800  2000  1900
+T WIND DIR              E    NE    SE     S     N     N     N     N    NE    NE
+T WIND SPD              5     3     8     6    11    34    37    41    40    36
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    VG    GD    GD
+ADI                     7     4    18    17    29    70    86    98    57    67
+MAX LVORI               8     9     6     8     7     4     4     3     4     4
+STABILITY               E     F     C     C     D     D     D     D     D     D
+CEILING              8900  8000  8000  4000   300   300  1000  1700  1000  1000
+PRESSURE            30.36 30.29 30.23 30.11 30.04 30.09 30.26 30.34 30.42 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          53    46    52    39    45    37    47    40    49
+TEMP          48 50 48 46 51 45 41 39 44 41 39 38 46 43 41 40 48 44
+DEWPT         47 48 46 45 43 40 36 33 31 31 30 30 30 31 31 32 34 35
+MIN/MAX RH       85    96    65    85    54    74    50    73    54
+RH            98 93 94 96 74 83 80 80 59 66 71 73 53 62 67 74 59 69
+WIND DIR      NE NE  N NW  W  W NW NW NW NW NW NW NW NW NW  N NW NW
+WIND SPD      16 13 10 11 10 12 16 13 13 10 10 10  9  6  4  4  4  2
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         40    50    20    10     5     5     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+NCZ014-060900-
+BUCKLAND ELEMENTARY-GATES NC
+36.37N  76.76W ELEV. 25 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          65          43          49          37
+TEMP             48 49 48 48 49 59 63 62 59 58 53 47 43 44 47 47 42 46 43 40 37
+DEWPT            45 46 46 47 48 52 56 56 56 52 49 45 42 39 36 35 34 34 35 37 37
+MAX/MIN RH                   97          71          96          59         100
+RH               89 89 93 96 95 78 78 80 90 80 87 93 96 81 65 63 73 65 73 89100
+WIND DIR          E NE  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     08 02 35 28 21 21 19 19 19 26 34 35 00 00 01 01 01 01 01 02 02
+WIND SPD          3  2  1  1  2  4  5  4  4  8 10 13 13 14 16 13 10 10 10  9  8
+CLOUDS           B2 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        70 74 78 77 79 90 96 98100 99 97 94 90 71 52 41 29 40 51 61 71
+VSBY             10 10 10 10 10  6  4  4  6  6  6  6 10 10 10 10  5  5  5  5  6
+POP 12HR                     10          90          70          10          10
+QPF 12HR                      0        0.24        0.21           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     3     3     4
+MIX HGT               300   300  1000  1100  1600  1400  2300  2500  1600  1100
+T WIND DIR             NE    NE     S     W     W     N     N     N     N     N
+T WIND SPD              3     2     8     6    14    26    25    27    25    18
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     3     2    22    19    28    35    51    58    32    20
+MAX LVORI               8    10     7     6     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     D     D     E     D
+CEILING              8000  8000  3900  5700  2100  1000  1700  3200  3200  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.09 30.26 30.34 30.43 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    40    52    33    46    30    48    30    50
+TEMP          44 41 42 41 51 42 37 34 45 37 33 31 46 38 34 31 48 40
+DEWPT         44 41 40 39 41 37 31 28 28 29 27 25 28 30 28 27 31 32
+MIN/MAX RH       90   100    60    86    47    80    43    85    46
+RH           100100 94 94 69 83 80 79 52 71 77 78 49 72 77 85 52 74
+WIND DIR      NE  N  N NW  W  W NW NW NW  W NW NW NW NW NW  N NW NW
+WIND SPD      10  5  4  4  6  5  6  5  9  4  4  3  3  2  2  2  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC FW FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     0     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+NCZ015-060900-
+ELIZABETH CITY RAWS-PASQUOTANK NC
+36.21N  76.16W ELEV. 15 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      47          66          44          51          41
+TEMP             51 53 51 50 51 60 64 63 57 56 51 46 44 46 49 47 47 47 45 42 41
+DEWPT            48 49 49 50 50 53 56 56 55 53 50 46 44 44 41 40 39 41 42 42 41
+MAX/MIN RH                   99          70         100          70         100
+RH               87 84 93 99 95 78 75 78 94 91 99100100 92 74 76 75 79 90100100
+WIND DIR         NE NE NE  E  S  S  S  S  S  W NW  N  N  N  N  N  N  N NE NE NE
+WIND DIR DEG     05 04 03 11 18 20 20 18 18 26 33 35 00 00 01 01 02 02 03 03 03
+WIND SPD          4  3  3  2  3  5  5  5  6  9 10 16 19 20 21 20 18 17 16 16 13
+CLOUDS           B1 B1 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 B1 SC SC SC B1 B1
+CLOUDS(%)        61 64 78 75 77 84 89 95100100100 95 90 78 66 51 36 43 50 59 69
+VSBY             10 10 10 10 10  6  6  6  6  6  6  6  6  6 10 10  5  5  5  5  6
+POP 12HR                     10          80          70          20          10
+QPF 12HR                      0        0.14        0.25           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          C
+RAIN SHWRS                       S  L  L  L  L  L  C  S  S                     
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     3
+MIX HGT               300   300  1200  1100  1400  1200  2600  2900  1900  1400
+T WIND DIR             NE    NE     S     S     W     N     N     N     N    NE
+T WIND SPD              4     2     8     5    11    27    33    34    32    31
+SMOKE DISP             PR    PR    PR    PR    PR    PR    GD    GD    FR    PR
+ADI                     6     4    19    17    21    44    75    85    37    48
+MAX LVORI               8    10     6     8     6     5     4     3     4     4
+STABILITY               F     F     C     C     D     D     D     D     D     D
+CEILING              8900  8900  4700  3200   300  1000  1000  1700  1400  1000
+PRESSURE            30.36 30.29 30.23 30.11 30.04 30.09 30.25 30.31 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          54    44    54    37    46    34    48    37    51
+TEMP          48 49 46 45 53 44 40 37 45 40 36 35 46 42 39 38 49 44
+DEWPT         48 49 45 44 44 40 35 31 31 30 29 29 30 32 30 31 34 35
+MIN/MAX RH       95   100    62    85    51    78    48    77    49
+RH           100 99 97 99 71 84 82 79 57 68 76 77 53 66 72 77 55 70
+WIND DIR      NE NE  N NW  W  W NW NW NW NW NW NW NW NW NW  N NW NW
+WIND SPD      16 11  9  9  6  9 12 10 10  8  8  8  5  4  4  4  3  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     0     0     0     0
+RAIN           C  C  C  C  S  S                                    
+
+$$
+
+NCZ030-060900-
+PEANUT BELT RESEARCH STATION NC-BERTIE NC
+36.13N  77.18W ELEV. 61 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          65          42          49          37
+TEMP             48 49 48 49 50 57 63 62 59 58 53 46 43 43 47 46 42 46 44 40 37
+DEWPT            46 46 46 47 47 52 57 56 56 52 49 45 42 38 35 33 31 32 33 35 36
+MAX/MIN RH                   93          75         100          57          91
+RH               93 89 93 92 89 83 80 81 90 81 86 96 96 81 64 60 65 59 66 81 96
+WIND DIR          E NE  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     07 03 01 29 21 21 19 18 19 27 35 35 35 00 01 01 01 01 01 01 01
+WIND SPD          2  2  1  1  1  3  4  3  4  6 10 11 11 12 14 12 10 10 10  9  6
+CLOUDS           B1 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        68 70 75 79 80 89 97 99100 98 95 89 88 71 55 42 30 40 51 61 71
+VSBY             10 10 10 10 10  6  4  4  6  6  6  6 10 10 10 10 10 10 10 10  6
+POP 12HR                     10          80          70          10          10
+QPF 12HR                      0        0.24        0.15           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  S                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     2
+MIX HGT               300   300  1000  1000  1600  1500  2200  3000  1500  1000
+T WIND DIR              E    NE     S     W     W     N     N     N     N     N
+T WIND SPD              5     2     5     5    13    26    24    26    24    17
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    PR    PR
+ADI                     4     1    15    12    27    35    47    63    30    19
+MAX LVORI               7     8     7     6     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     C     C     E     E
+CEILING              8000  8000  3200  6500   300  1000  1700  3200  3200  1700
+PRESSURE            30.30 30.25 30.17 30.05 30.01 30.07 30.25 30.30 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          49    39    53    32    46    29    48    29    51
+TEMP          44 41 41 40 51 42 36 33 44 37 32 30 46 38 33 30 49 40
+DEWPT         43 41 39 38 40 36 31 27 27 28 26 24 26 29 27 26 30 32
+MIN/MAX RH       86   100    56    82    45    78    41    85    44
+RH            95100 94 94 66 79 82 78 51 70 78 78 45 71 78 85 48 72
+WIND DIR      NE  N  N NW  W  W NW NW NW NW NW NW NW  W  W NW  W NW
+WIND SPD       8  5  3  3  5  4  5  3  6  3  3  3  3  1  1  1  2  2
+AVG CLOUDS    B2 OV OV B2 B1 SC SC FW FW FW FW SC SC SC SC FW SC FW
+POP 12HR         40    40    10    10     5     0     0     0     0
+RAIN           S  C  C  C                                          
+
+$$
+
+NCZ030-060900-
+GREEN CROSS RAWS-BERTIE NC
+36.01N  76.90W ELEV. 52 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          66          44          49          38
+TEMP             49 51 49 49 50 59 64 63 59 58 53 47 44 46 48 47 44 46 44 40 38
+DEWPT            47 47 47 48 48 53 57 57 57 54 51 47 43 40 37 35 34 35 36 38 38
+MAX/MIN RH                   96          74         100          60         100
+RH               93 86 93 95 93 80 80 83 95 86 92100 98 81 65 64 68 65 73 92100
+WIND DIR          E NE  N  W  S SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     07 03 01 28 19 21 20 18 19 27 34 35 35 00 01 01 01 01 01 01 01
+WIND SPD          3  2  1  1  1  3  3  3  4  6  9 12 11 13 14 12 10 10 10  9  6
+CLOUDS           B1 B1 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        62 65 75 76 78 87 95 98100 98 96 92 89 75 60 47 34 42 51 60 70
+VSBY             10 10 10 10 10  6  6  4  6  6  6  6 10 10 10 10  5  5  5  5  6
+POP 12HR                     10          80          70          10          10
+QPF 12HR                      0        0.19        0.18           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          C
+RAIN SHWRS                       C  L  D  L  L  C  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     2
+MIX HGT               300   300  1100  1100  1700  1500  2300  3000  1700  1300
+T WIND DIR              E    NE     S     W     W     N     N     N     N     N
+T WIND SPD              5     2     8     6    11    25    25    26    26    18
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    PR    PR
+ADI                     4     1    24    20    24    34    50    61    28    21
+MAX LVORI               7     8     8     8     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     C     C     E     E
+CEILING              8900  8000  4000  2400   700  1000  1000  2400  2400  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.07 30.25 30.31 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          51    40    53    33    46    30    49    30    51
+TEMP          45 44 43 41 52 42 37 34 45 37 33 31 47 39 34 31 49 41
+DEWPT         45 44 41 40 42 38 32 28 28 29 27 25 28 30 28 27 31 33
+MIN/MAX RH       90   100    58    89    47    78    42    85    46
+RH            99100 93 96 69 86 82 78 51 72 77 78 47 71 78 85 50 73
+WIND DIR      NE  N  N NW  W  W NW NW NW NW NW NW NW NW NW  N  W NW
+WIND SPD      10  5  4  4  5  4  5  3  6  3  3  3  3  1  2  2  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC FW FW FW FW SC SC SC SC FW SC SC
+POP 12HR         40    40    10    10     5     0     0     0     0
+RAIN           C  C  C  C                                          
+
+$$
+
+EXPERIMENTAL ONLY...THIS PRODUCT IS FOR PLANNING AND REVIEW PURPOSES ONLY AND
+IS NOT TO BE SUBSTITUTED FOR AN OFFICIAL FIRE WEATHER SPOT
+FORECAST.
+BELOW IS A WEATHER ELEMENT KEY FOR THIS PRODUCT.
+(NOTE...WINDS DO NOT REFLECT LOCAL TERRAIN EFFECTS.)
+
+DAY 1 THROUGH 3...
+MAX/MIN TEMP OR MIN/MAX TEMP(F).....MAXIMUM/MINIMUM AIR TEMPERATURE
+TEMP(F).............................AIR TEMPERATURE
+DEWPT(F)............................DEW POINT TEMPERATURE
+MIN/MAX RH OR MAX/MIN RH(%).........MAXIMUM/MINIMUM HUMIDITY
+RH(%)...............................RELATIVE HUMIDITY
+WIND DIR(8 POINT COMPASS)...........20 FT. WIND DIRECTION
+WIND DIR DEG(DEGREES)...............20 FT. WIND DIRECTION IN TENS OF DEGREES
+                                    RELATIVE TO DUE NORTH.
+     EXAMPLE: 09 = 90 DEGREES = EAST; 18 = 180 DEGREES = SOUTH;
+              27 = 270 DEGREES = WEST; 36 = 360 DEGREES = NORTH
+WIND SPD(MPH).......................20 FT. WIND SPEED
+WIND GUST(MPH)......................20 FT. WIND GUST
+WIND CHILL..........................WIND CHILL TEMPERATURE
+HEAT INDX...........................HEAT INDEX
+CLOUDS(CAT).........................CLOUD COVER CATEGORY
+     EXAMPLE: CL = CLEAR; FW = FEW; SC = SCATTERED;
+              B1 = MOSTLY CLOUDY; B2 = CONSIDERABLE CLOUDS; OV = OVERCAST
+CLOUDS(%)...........................CLOUD COVER AS A PERCENTAGE
+VSBY................................VISIBILITY VALUE IN STATUTE MILES
+POP 12HR(%).........................PROBABILITY FOR ACCUMULATING PRECIPITATION
+QPF 12HR(IN)........................LIQUID EQUIVALENT PRECIPITATION AMOUNT
+WEATHER...
+     TYPE...
+       RAIN...........RAIN
+       RAIN SHWRS.....RAIN SHOWERS
+       TSTMS..........THUNDERSTORMS
+       DRIZZLE........DRIZZLE
+       SNOW...........SNOW
+       SNOWSHWRS......SNOW SHOWERS
+       SLEET..........SLEET
+       FLURRIES.......FLURRIES
+       FRZG RAIN......FREEZING RAIN
+       FRZG DRZL......FREEZING DRIZZLE
+     COVERAGE...
+       S..............SLIGHT CHANCE
+       C..............CHANCE
+       L..............LIKELY
+       O..............OCCASIONAL
+       D..............DEFINITE
+       AR.............AREAS
+       PA.............PATCHY
+OBVIS...............................OBSTRUCTION TO VISIBILITY
+     TYPE...
+       F..............FOG
+       PF.............PATCHY FOG
+       F+.............DENSE FOG
+       H..............HAZE
+       BS.............BLOWING SNOW
+       K..............SMOKE
+       BD.............BLOWING DUST
+       AF.............VOLCANIC ASHFALL
+LAL(CAT)............................LIGHTNING ACTIVITY LEVEL
+HAINES(CAT).........................HAINES INDEX
+MIX HGT(FT AGL).....................MIXING HEIGHT
+T WIND DIR(8 POINT COMPASS).........TRANSPORT WIND DIRECTION
+T WIND SPD(MPH).....................TRANSPORT WIND SPEED
+SMOKE DISPERSION....................SMOKE DISPERSION CATEGORY
+     VALUES: VP = VERY POOR; PR = POOR; FR = FAIR; GD = GOOD
+ADI (INDEX).........................ATMOSPHERIC DISPERSION INDEX
+CEILING (FT)........................CEILING
+PRESSURE (INCHES MERCURY)...........STATION PRESSURE
+MAX LVORI (INDEX)...................LOW VISIBILITY OCCURRENCE RISK INDEX
+STABILITY (CAT).....................PASQUILL TURNER STABILITY
+WATCH/WARNING/ADVISORY...
+     EXAMPLE: W = WARNING; Y = ADVISORY; A = WATCH
+     IN EFFECT FOR THE INDICATED HOUR 
+
+DAY 4 THROUGH 7...
+MAX/MIN TEMP OR MIN/MAX TEMP(F).....MAXIMUM/MINIMUM AIR TEMPERATURE
+TEMP(F).............................AIR TEMPERATURE
+DEWPT(F)............................DEW POINT TEMPERATURE
+RH(%)...............................RELATIVE HUMIDITY
+WIND DIR............................20 FT. WIND DIRECTION
+WIND SPD(MPH).......................20 FT. WIND SPEED
+AVG CLOUDS(CAT).....................AVERAGE CLOUD COVER CATEGORY
+POP 12HR(%).........................PROBABILITY FOR ACCUMULATING PRECIPITATION
+WEATHER...
+     SEE DAY 1 THROUGH 3 WEATHER DESCRIPTIONS
+AKQ-219754
+
+
+838
+FOUS54 KAKQ 052220
+PFWAKQ
+FOUS54 KAKQ 052220
+PFWAKQ
+
+EXPERIMENTAL...FIRE WEATHER POINT FORECAST MATRICES
+NATIONAL WEATHER SERVICE WAKEFIELD VA
+520 PM EST FRI DEC 5 2014
+
+MDZ021-060900-
+BLACKWATER NWR RAWS-DORCHESTER MD
+38.42N  76.00W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      42          58          38          47          32
+TEMP             43 43 44 45 46 51 55 55 51 50 47 43 39 39 44 44 37 42 40 36 33
+DEWPT            42 43 44 45 46 49 51 51 51 47 42 40 37 33 29 28 27 28 28 29 31
+MAX/MIN RH                  100          80         100          50          88
+RH               96100100100100 91 86 87100 89 83 88 92 79 56 54 67 56 62 75 91
+WIND DIR         SE SE  S  S  S  S  S  S SW  W  N  N  N  N  N  N  N  N NE NE NE
+WIND DIR DEG     12 15 20 19 19 19 18 18 21 28 34 34 35 00 01 02 02 02 03 03 04
+WIND SPD          3  3  3  3  4  4  6  6  3  9 14 16 16 16 16 12 10 10 10  9  8
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV B2 B1 SC FW FW FW SC SC B1 B1
+CLOUDS(%)       100100 98 93 91 95100100100100100 80 60 41 24 19 14 29 44 55 67
+VSBY              5  6  6 10 10  6  4  4  4  6  6  6 10 10 10 10 10 10 10 10 10
+POP 12HR                     30         100          80          10          10
+QPF 12HR                   0.01        0.32        0.34           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 C  S                                                      
+RAIN SHWRS        C              C  D  D  D  L  L  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  3     3     3     3     3     2     4     4     4     4
+MIX HGT               300   300   500   500   500   800  2300  2600  1400   800
+T WIND DIR              S     S     S    SE    NW     N     N    NE    NE    NE
+T WIND SPD              2     3     5     5    19    29    27    24    16    13
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     4     4     9     8    24    34    55    56    13    15
+MAX LVORI              10     9     9     8     8     4     4     3     2     5
+STABILITY               D     D     C     D     D     D     D     D     E     D
+CEILING              3200  4000  8000  1000   500  1000  9900 30000 26600 23500
+PRESSURE            30.37 30.29 30.21 30.10 30.05 30.17 30.36 30.45 30.56 30.56
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          45    37    49    33    44    31    45    32    46
+TEMP          40 37 39 38 48 40 36 34 43 37 33 32 43 38 35 33 44 40
+DEWPT         39 37 37 36 40 36 30 28 27 27 25 24 26 28 27 28 30 31
+MIN/MAX RH       85   100    62    85    48    74    46    82    51
+RH            95100 95 95 74 84 79 79 53 67 70 74 52 67 75 84 57 72
+WIND DIR      NE NE NE NW  W  W  W  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD       8  6  4  5  8 12 12 12 13 10 10  9 10  4  4  4  5  3
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10     5     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+MDZ022-060900-
+POWELLVILLE RAWS - WICOMICO MD
+38.35N  75.42W ELEV. 16 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      44          61          39          48          33
+TEMP             45 45 47 48 48 54 57 57 54 53 48 44 40 42 46 44 38 43 40 37 34
+DEWPT            43 44 45 46 46 50 54 53 52 48 44 41 38 34 31 30 29 30 32 33 34
+MAX/MIN RH                   97          81          94          53          97
+RH               94 96 95 94 94 87 89 86 94 84 84 89 92 74 56 57 69 61 73 86100
+WIND DIR          E SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     11 13 18 18 19 19 19 19 19 27 35 00 00 01 02 03 03 03 04 04 05
+WIND SPD          3  2  2  3  3  4  8  8  6 10 14 17 17 18 19 16 12 12 13 12 11
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        95 96 98 93 92 93 99100100100100 93 87 57 28 21 14 28 41 54 66
+VSBY              5  6  6 10 10  6  4  4  4  4  6  6  6 10 10 10 10 10 10 10 10
+POP 12HR                     30         100          80          20          10
+QPF 12HR                      0        0.24        0.48           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S  S                                                      
+RAIN SHWRS        C              C  D  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  3     3     3     3     3     2     4     4     4     4
+MIX HGT               300   300   700   700   900   900  2400  2700  1500  1000
+T WIND DIR             SW     S     S     S     W     N     N    NE    NE    NE
+T WIND SPD              1     2     8     5    13    32    29    26    20    24
+SMOKE DISP             PR    PR    PR    PR    PR    PR    GD    GD    PR    PR
+ADI                     1     4    11     9    23    38    62    63    25    29
+MAX LVORI              10     9     6     7     6     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     E     D
+CEILING              3200  4000  8000  1000   300  1000  3200 30000 30000  1000
+PRESSURE            30.34 30.27 30.18 30.07 30.01 30.09 30.28 30.38 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          48    39    49    32    44    31    45    33    46
+TEMP          43 39 41 40 48 40 35 33 43 37 34 32 43 39 35 34 45 40
+DEWPT         41 39 39 38 40 36 30 29 28 27 25 25 26 28 27 28 30 31
+MIN/MAX RH       85   100    65    88    50    75    46    80    51
+RH            92100 92 93 75 85 82 84 56 68 71 75 51 65 71 81 56 70
+WIND DIR      NE NE NE NW  W  W  W  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      12 10  8  9  9 12 14 13 14 11 10 10 10  6  6  5  6  5
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10    10     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+MDZ025-060900-
+ASSATEAGUE ISLAND RAWS - WORCHESTER MD
+38.08N  75.20W ELEV. 12 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          58          43          49          39
+TEMP             47 47 48 49 50 53 55 54 52 53 50 47 43 45 48 46 43 46 44 42 39
+DEWPT            45 47 48 49 50 51 53 53 52 50 46 44 42 39 36 35 35 36 38 38 39
+MAX/MIN RH                  100          87         100          60          95
+RH               96 98100100100 95 94 97100 89 85 90 97 79 63 66 73 69 77 85 99
+WIND DIR         SE SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     12 13 16 18 19 18 19 18 18 26 35 00 00 01 02 02 03 03 04 05 05
+WIND SPD          6  5  6  5  6  6 10  9 10 13 17 24 26 26 26 25 24 23 21 20 19
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV OV B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        93 94 96 92 89 92 95 98100100100 95 90 60 30 22 14 28 41 53 64
+VSBY              5  6 10 10 10  6  6  4  4  4  6  6  6 10 10 10  5  5  5  5 10
+POP 12HR                     20         100          80          20          10
+QPF 12HR                      0        0.19        0.50           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S                                                         
+RAIN SHWRS        S              C  L  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     3     2     3     4     4     4
+MIX HGT               300   300   600   500  1100  1500  2500  2700  1900  1700
+T WIND DIR             SE     S     S     S    SW     N     N    NE    NE    NE
+T WIND SPD              4     2     5     5    11    36    39    39    36    34
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    GD    GD    FR
+ADI                     6     4     7     6    23    63    89    89    43    59
+MAX LVORI              10    10     9     9     9     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     D     D
+CEILING              8000  4000  8000  1700   700  1000  1900 30000  1700  1000
+PRESSURE            30.37 30.30 30.22 30.11 30.05 30.09 30.28 30.39 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    44    49    37    43    36    44    38    45
+TEMP          47 44 45 44 48 43 39 37 42 39 37 36 43 41 39 38 44 42
+DEWPT         44 44 44 43 43 39 34 32 31 30 29 28 29 30 29 30 32 33
+MIN/MAX RH       86   100    70    87    57    74    53    72    58
+RH            91100 99 99 81 86 81 81 64 70 71 74 57 66 68 73 62 72
+WIND DIR      NE NE NE  N  W  W NW  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      17 14 10 12 10 16 18 18 17 16 14 14 13 11 10  9  8  8
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10    10     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+VAZ099-060900-
+CHINCOTEAGUE RAWS - ACCOMACK VA
+37.99N  75.29W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          58          43          48          39
+TEMP             47 47 47 49 50 53 55 54 52 53 52 48 43 44 48 46 43 46 45 43 39
+DEWPT            46 47 47 49 50 51 53 53 52 50 46 44 43 39 36 35 35 36 37 38 39
+MAX/MIN RH                  100          87         100          60          95
+RH               93 98100100100 95 93 97100 87 83 88 97 81 63 65 72 68 73 82 99
+WIND DIR          E SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     11 12 16 18 19 18 19 18 18 26 34 00 00 01 02 02 03 03 04 05 05
+WIND SPD          6  5  5  5  6  6 10  9 10 12 16 24 26 26 26 25 23 23 21 20 19
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV OV B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        92 93 95 91 88 91 94 97100100100 95 90 60 30 22 14 28 42 53 64
+VSBY              5  9 10 10 10  6  5  4  4  4  6  6  6 10 10 10  5  5  5  5 10
+POP 12HR                     20         100          80          20          10
+QPF 12HR                      0        0.19        0.48           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S                                                         
+RAIN SHWRS        S              C  L  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     3     2     3     4     4     4
+MIX HGT               300   300   600   500  1300  1600  2400  2600  2000  1800
+T WIND DIR             SE     S     S     S    SW     N     N    NE    NE    NE
+T WIND SPD              4     2     5     5    12    36    37    39    36    34
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    GD    GD    FR
+ADI                     6     4     7     7    29    64    87    87    50    60
+MAX LVORI              10    10     9     9     9     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     D     D
+CEILING              8000  4300  8000  1700   300  1000  1700 30000  1700  1200
+PRESSURE            30.37 30.30 30.22 30.11 30.05 30.09 30.28 30.38 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    43    49    37    43    35    44    37    45
+TEMP          47 43 44 43 48 43 39 37 42 39 37 35 43 40 38 37 44 41
+DEWPT         44 43 44 43 42 38 34 31 30 30 28 28 29 30 29 30 32 33
+MIN/MAX RH       85   100    70    86    57    74    52    74    58
+RH            91100 97 99 81 84 81 79 63 70 70 74 57 66 70 76 63 73
+WIND DIR      NE NE NE  N  W  W NW  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      17 14 10 12 10 16 18 17 16 16 14 14 13 10  9  8  6  6
+AVG CLOUDS    B1 B2 OV OV B1 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10     5     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+VAZ081-060900-
+JAMES RIVER NWR RAWS-PRINCE GEORGE VA
+37.25N  77.25W ELEV. 50 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      44          61          40          49          32
+TEMP             45 46 46 46 47 52 58 60 56 57 53 45 41 42 47 47 39 46 44 37 33
+DEWPT            43 44 44 44 44 49 53 53 53 48 43 40 37 33 30 29 28 28 28 29 30
+MAX/MIN RH                   93          74          91          45          88
+RH               93 91 93 93 89 89 84 78 91 73 69 82 86 71 51 49 64 49 53 72 88
+WIND DIR         SE SE  S  S  S  S  S  S SW  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     11 14 19 20 20 19 19 18 22 28 35 35 35 00 01 01 01 01 01 01 00
+WIND SPD          1  1  1  1  2  4  5  5  3  6 10 11 10 11 12 10  8  6  6  5  4
+CLOUDS           OV OV B2 B2 B2 OV OV OV OV OV OV B2 B1 SC SC FW FW SC B1 B1 B2
+CLOUDS(%)        96 92 85 80 87 97100100100 98 95 78 61 45 30 25 21 36 51 60 70
+VSBY             10 10 10 10  6  6  4  4  6  6  6  6 10 10 10 10 10 10 10 10  9
+POP 12HR                     30         100          70          10          10
+QPF 12HR                   0.01        0.40        0.17           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                    C  C  D  D  L  L  C  S                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     2     2     4     4     4     4
+MIX HGT               300   300   600   700  1500  1500  2200  2500   900   500
+T WIND DIR             SE     S     S     S    NW     N     N     N    NE    NE
+T WIND SPD              4     0     4     9    19    26    24    21    18    16
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     3     1     7    12    27    41    45    45    16    18
+MAX LVORI               8     8     6     6     5     4     4     3     2     5
+STABILITY               D     D     B     D     D     D     C     C     F     E
+CEILING              3200  6500  1000  1000  1000  1000  3200 30000 26600  1700
+PRESSURE            30.26 30.20 30.12  30.0 29.96 30.09 30.26 30.32 30.43 30.43
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          45    37    52    31    46    28    48    29    50
+TEMP          42 37 39 38 50 41 35 32 44 36 32 29 46 38 33 30 48 40
+DEWPT         37 37 37 37 38 34 29 26 26 26 24 23 25 27 26 25 29 30
+MIN/MAX RH       75   100    54    82    43    78    40    81    42
+RH            81100 92 94 64 76 79 78 49 67 72 78 43 65 75 81 47 67
+WIND DIR      NE  N  N NW  W  W  W  W NW NW NW  W  W  W  W NW SW  S
+WIND SPD       5  3  3  3  6  6  5  4  9  3  3  3  3  1  3  1  2  1
+AVG CLOUDS    B2 B2 OV B2 B1 SC SC SC SC SC SC SC SC FW SC SC SC SC
+POP 12HR         30    40    20    10     5     0     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+VAZ096-060900-
+GREAT DISMAL SWAMP RAWS-SUFFOLK VA
+36.61N  76.55W ELEV. 35 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      47          65          43          48          39
+TEMP             49 50 49 48 49 60 63 63 59 58 53 48 44 43 47 47 42 46 44 42 40
+DEWPT            46 46 47 47 48 52 57 56 56 52 49 46 42 39 36 35 35 36 37 38 40
+MAX/MIN RH                  100          72          94          60          95
+RH               89 87 92 96 96 76 81 79 91 80 85 92 92 85 66 63 75 67 76 87 99
+WIND DIR          E  N  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N NE
+WIND DIR DEG     07 02 34 28 21 21 20 18 18 26 34 35 00 00 01 01 02 02 02 02 03
+WIND SPD          2  2  1  1  2  5  5  4  5  9 10 14 14 16 16 14 12 11 11 10  9
+CLOUDS           B2 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC SC B1 B2
+CLOUDS(%)        71 77 80 78 79 89 96 98100100 99 95 90 70 51 40 29 39 50 60 71
+VSBY             10 10 10 10 10  6  5  4  5  6  6  6  6 10 10 10  5  5  5  5  6
+POP 12HR                     10          90          70          20          10
+QPF 12HR                      0        0.23        0.24           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     3     4     4
+MIX HGT               300   300  1000  1100  1700  1400  2500  2800  1800  1200
+T WIND DIR             NE     N     S     W     W     N     N     N     N    NE
+T WIND SPD              2     2    10    10    13    27    27    28    26    23
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    FR    PR
+ADI                     3     2    26    23    28    36    59    65    33    30
+MAX LVORI               8    10     6     6     5     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     D     D     E     D
+CEILING              8000  8000  3600  2400  1700  1000  1400  3200  2400  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.09 30.26 30.34 30.42 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          51    41    53    34    46    31    48    32    50
+TEMP          45 42 43 42 52 43 38 35 45 38 34 32 46 39 35 33 48 41
+DEWPT         45 42 41 40 43 38 32 29 29 29 27 26 29 30 28 28 33 33
+MIN/MAX RH       86   100    60    87    49    79    45    82    47
+RH            99100 93 95 70 84 81 80 53 70 76 79 51 70 75 83 54 73
+WIND DIR      NE  N  N NW  W  W NW NW NW  W NW NW NW NW NW  N NW NW
+WIND SPD      10  8  5  6  6  8  9  6 10  5  5  4  4  3  2  3  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     5     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+VAZ098-060900-
+BACK BAY NWR RAWS-VIRGINIA BEACH VA
+36.68N  75.93W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      50          63          45          51          44
+TEMP             53 53 53 54 53 59 63 62 57 55 52 47 46 47 48 50 49 48 47 45 45
+DEWPT            49 49 50 51 52 53 55 55 55 52 50 47 46 43 40 40 40 41 42 43 43
+MAX/MIN RH                   94          71         100          65          93
+RH               86 87 91 91 95 79 75 79 94 91 94100100 86 75 70 71 76 83 91 94
+WIND DIR         NE NE  E SE  S  S  S  S  S  W  N  N  N  N  N  N NE NE NE NE NE
+WIND DIR DEG     05 06 08 14 19 19 20 18 18 26 34 35 00 00 01 02 02 03 03 04 04
+WIND SPD          4  4  3  3  3  6  6  6  9 11 16 21 24 25 26 25 24 23 21 20 19
+CLOUDS           B1 B2 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 SC SC SC SC B1 B1
+CLOUDS(%)        69 76 80 79 78 85 90 95100100100 95 90 75 60 45 29 39 48 59 69
+VSBY             10 10 10 10 10  6  6  4  4  4  6  6  6  6 10 10  5  5  5  5  6
+POP 12HR                     10          90          80          20          10
+QPF 12HR                      0        0.17        0.29           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       S  L  D  D  D  L  C  S  S                     
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     4     4
+MIX HGT               300   300  1100  1000  1600  1800  2500  2800  2000  1900
+T WIND DIR              E    NE    SE     S     N     N     N     N    NE    NE
+T WIND SPD              5     3     8     6    11    34    37    41    40    36
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    VG    GD    GD
+ADI                     7     4    18    17    29    70    86    98    57    67
+MAX LVORI               8     9     6     8     7     4     4     3     4     4
+STABILITY               E     F     C     C     D     D     D     D     D     D
+CEILING              8900  8000  8000  4000   300   300  1000  1700  1000  1000
+PRESSURE            30.36 30.29 30.23 30.11 30.04 30.09 30.26 30.34 30.42 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          53    46    52    39    45    37    47    40    49
+TEMP          48 50 48 46 51 45 41 39 44 41 39 38 46 43 41 40 48 44
+DEWPT         47 48 46 45 43 40 36 33 31 31 30 30 30 31 31 32 34 35
+MIN/MAX RH       85    96    65    85    54    74    50    73    54
+RH            98 93 94 96 74 83 80 80 59 66 71 73 53 62 67 74 59 69
+WIND DIR      NE NE  N NW  W  W NW NW NW NW NW NW NW NW NW  N NW NW
+WIND SPD      16 13 10 11 10 12 16 13 13 10 10 10  9  6  4  4  4  2
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         40    50    20    10     5     5     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+NCZ014-060900-
+BUCKLAND ELEMENTARY-GATES NC
+36.37N  76.76W ELEV. 25 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          65          43          49          37
+TEMP             48 49 48 48 49 59 63 62 59 58 53 47 43 44 47 47 42 46 43 40 37
+DEWPT            45 46 46 47 48 52 56 56 56 52 49 45 42 39 36 35 34 34 35 37 37
+MAX/MIN RH                   97          71          96          59         100
+RH               89 89 93 96 95 78 78 80 90 80 87 93 96 81 65 63 73 65 73 89100
+WIND DIR          E NE  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     08 02 35 28 21 21 19 19 19 26 34 35 00 00 01 01 01 01 01 02 02
+WIND SPD          3  2  1  1  2  4  5  4  4  8 10 13 13 14 16 13 10 10 10  9  8
+CLOUDS           B2 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        70 74 78 77 79 90 96 98100 99 97 94 90 71 52 41 29 40 51 61 71
+VSBY             10 10 10 10 10  6  4  4  6  6  6  6 10 10 10 10  5  5  5  5  6
+POP 12HR                     10          90          70          10          10
+QPF 12HR                      0        0.24        0.21           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     3     3     4
+MIX HGT               300   300  1000  1100  1600  1400  2300  2500  1600  1100
+T WIND DIR             NE    NE     S     W     W     N     N     N     N     N
+T WIND SPD              3     2     8     6    14    26    25    27    25    18
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     3     2    22    19    28    35    51    58    32    20
+MAX LVORI               8    10     7     6     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     D     D     E     D
+CEILING              8000  8000  3900  5700  2100  1000  1700  3200  3200  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.09 30.26 30.34 30.43 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    40    52    33    46    30    48    30    50
+TEMP          44 41 42 41 51 42 37 34 45 37 33 31 46 38 34 31 48 40
+DEWPT         44 41 40 39 41 37 31 28 28 29 27 25 28 30 28 27 31 32
+MIN/MAX RH       90   100    60    86    47    80    43    85    46
+RH           100100 94 94 69 83 80 79 52 71 77 78 49 72 77 85 52 74
+WIND DIR      NE  N  N NW  W  W NW NW NW  W NW NW NW NW NW  N NW NW
+WIND SPD      10  5  4  4  6  5  6  5  9  4  4  3  3  2  2  2  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC FW FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     0     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+NCZ015-060900-
+ELIZABETH CITY RAWS-PASQUOTANK NC
+36.21N  76.16W ELEV. 15 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      47          66          44          51          41
+TEMP             51 53 51 50 51 60 64 63 57 56 51 46 44 46 49 47 47 47 45 42 41
+DEWPT            48 49 49 50 50 53 56 56 55 53 50 46 44 44 41 40 39 41 42 42 41
+MAX/MIN RH                   99          70         100          70         100
+RH               87 84 93 99 95 78 75 78 94 91 99100100 92 74 76 75 79 90100100
+WIND DIR         NE NE NE  E  S  S  S  S  S  W NW  N  N  N  N  N  N  N NE NE NE
+WIND DIR DEG     05 04 03 11 18 20 20 18 18 26 33 35 00 00 01 01 02 02 03 03 03
+WIND SPD          4  3  3  2  3  5  5  5  6  9 10 16 19 20 21 20 18 17 16 16 13
+CLOUDS           B1 B1 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 B1 SC SC SC B1 B1
+CLOUDS(%)        61 64 78 75 77 84 89 95100100100 95 90 78 66 51 36 43 50 59 69
+VSBY             10 10 10 10 10  6  6  6  6  6  6  6  6  6 10 10  5  5  5  5  6
+POP 12HR                     10          80          70          20          10
+QPF 12HR                      0        0.14        0.25           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          C
+RAIN SHWRS                       S  L  L  L  L  L  C  S  S                     
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     3
+MIX HGT               300   300  1200  1100  1400  1200  2600  2900  1900  1400
+T WIND DIR             NE    NE     S     S     W     N     N     N     N    NE
+T WIND SPD              4     2     8     5    11    27    33    34    32    31
+SMOKE DISP             PR    PR    PR    PR    PR    PR    GD    GD    FR    PR
+ADI                     6     4    19    17    21    44    75    85    37    48
+MAX LVORI               8    10     6     8     6     5     4     3     4     4
+STABILITY               F     F     C     C     D     D     D     D     D     D
+CEILING              8900  8900  4700  3200   300  1000  1000  1700  1400  1000
+PRESSURE            30.36 30.29 30.23 30.11 30.04 30.09 30.25 30.31 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          54    44    54    37    46    34    48    37    51
+TEMP          48 49 46 45 53 44 40 37 45 40 36 35 46 42 39 38 49 44
+DEWPT         48 49 45 44 44 40 35 31 31 30 29 29 30 32 30 31 34 35
+MIN/MAX RH       95   100    62    85    51    78    48    77    49
+RH           100 99 97 99 71 84 82 79 57 68 76 77 53 66 72 77 55 70
+WIND DIR      NE NE  N NW  W  W NW NW NW NW NW NW NW NW NW  N NW NW
+WIND SPD      16 11  9  9  6  9 12 10 10  8  8  8  5  4  4  4  3  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     0     0     0     0
+RAIN           C  C  C  C  S  S                                    
+
+$$
+
+NCZ030-060900-
+PEANUT BELT RESEARCH STATION NC-BERTIE NC
+36.13N  77.18W ELEV. 61 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          65          42          49          37
+TEMP             48 49 48 49 50 57 63 62 59 58 53 46 43 43 47 46 42 46 44 40 37
+DEWPT            46 46 46 47 47 52 57 56 56 52 49 45 42 38 35 33 31 32 33 35 36
+MAX/MIN RH                   93          75         100          57          91
+RH               93 89 93 92 89 83 80 81 90 81 86 96 96 81 64 60 65 59 66 81 96
+WIND DIR          E NE  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     07 03 01 29 21 21 19 18 19 27 35 35 35 00 01 01 01 01 01 01 01
+WIND SPD          2  2  1  1  1  3  4  3  4  6 10 11 11 12 14 12 10 10 10  9  6
+CLOUDS           B1 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        68 70 75 79 80 89 97 99100 98 95 89 88 71 55 42 30 40 51 61 71
+VSBY             10 10 10 10 10  6  4  4  6  6  6  6 10 10 10 10 10 10 10 10  6
+POP 12HR                     10          80          70          10          10
+QPF 12HR                      0        0.24        0.15           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  S                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     2
+MIX HGT               300   300  1000  1000  1600  1500  2200  3000  1500  1000
+T WIND DIR              E    NE     S     W     W     N     N     N     N     N
+T WIND SPD              5     2     5     5    13    26    24    26    24    17
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    PR    PR
+ADI                     4     1    15    12    27    35    47    63    30    19
+MAX LVORI               7     8     7     6     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     C     C     E     E
+CEILING              8000  8000  3200  6500   300  1000  1700  3200  3200  1700
+PRESSURE            30.30 30.25 30.17 30.05 30.01 30.07 30.25 30.30 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          49    39    53    32    46    29    48    29    51
+TEMP          44 41 41 40 51 42 36 33 44 37 32 30 46 38 33 30 49 40
+DEWPT         43 41 39 38 40 36 31 27 27 28 26 24 26 29 27 26 30 32
+MIN/MAX RH       86   100    56    82    45    78    41    85    44
+RH            95100 94 94 66 79 82 78 51 70 78 78 45 71 78 85 48 72
+WIND DIR      NE  N  N NW  W  W NW NW NW NW NW NW NW  W  W NW  W NW
+WIND SPD       8  5  3  3  5  4  5  3  6  3  3  3  3  1  1  1  2  2
+AVG CLOUDS    B2 OV OV B2 B1 SC SC FW FW FW FW SC SC SC SC FW SC FW
+POP 12HR         40    40    10    10     5     0     0     0     0
+RAIN           S  C  C  C                                          
+
+$$
+
+NCZ030-060900-
+GREEN CROSS RAWS-BERTIE NC
+36.01N  76.90W ELEV. 52 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          66          44          49          38
+TEMP             49 51 49 49 50 59 64 63 59 58 53 47 44 46 48 47 44 46 44 40 38
+DEWPT            47 47 47 48 48 53 57 57 57 54 51 47 43 40 37 35 34 35 36 38 38
+MAX/MIN RH                   96          74         100          60         100
+RH               93 86 93 95 93 80 80 83 95 86 92100 98 81 65 64 68 65 73 92100
+WIND DIR          E NE  N  W  S SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     07 03 01 28 19 21 20 18 19 27 34 35 35 00 01 01 01 01 01 01 01
+WIND SPD          3  2  1  1  1  3  3  3  4  6  9 12 11 13 14 12 10 10 10  9  6
+CLOUDS           B1 B1 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        62 65 75 76 78 87 95 98100 98 96 92 89 75 60 47 34 42 51 60 70
+VSBY             10 10 10 10 10  6  6  4  6  6  6  6 10 10 10 10  5  5  5  5  6
+POP 12HR                     10          80          70          10          10
+QPF 12HR                      0        0.19        0.18           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          C
+RAIN SHWRS                       C  L  D  L  L  C  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     2
+MIX HGT               300   300  1100  1100  1700  1500  2300  3000  1700  1300
+T WIND DIR              E    NE     S     W     W     N     N     N     N     N
+T WIND SPD              5     2     8     6    11    25    25    26    26    18
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    PR    PR
+ADI                     4     1    24    20    24    34    50    61    28    21
+MAX LVORI               7     8     8     8     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     C     C     E     E
+CEILING              8900  8000  4000  2400   700  1000  1000  2400  2400  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.07 30.25 30.31 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          51    40    53    33    46    30    49    30    51
+TEMP          45 44 43 41 52 42 37 34 45 37 33 31 47 39 34 31 49 41
+DEWPT         45 44 41 40 42 38 32 28 28 29 27 25 28 30 28 27 31 33
+MIN/MAX RH       90   100    58    89    47    78    42    85    46
+RH            99100 93 96 69 86 82 78 51 72 77 78 47 71 78 85 50 73
+WIND DIR      NE  N  N NW  W  W NW NW NW NW NW NW NW NW NW  N  W NW
+WIND SPD      10  5  4  4  5  4  5  3  6  3  3  3  3  1  2  2  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC FW FW FW FW SC SC SC SC FW SC SC
+POP 12HR         40    40    10    10     5     0     0     0     0
+RAIN           C  C  C  C                                          
+
+$$
+
+EXPERIMENTAL ONLY...THIS PRODUCT IS FOR PLANNING AND REVIEW PURPOSES ONLY AND
+IS NOT TO BE SUBSTITUTED FOR AN OFFICIAL FIRE WEATHER SPOT
+FORECAST.
+BELOW IS A WEATHER ELEMENT KEY FOR THIS PRODUCT.
+(NOTE...WINDS DO NOT REFLECT LOCAL TERRAIN EFFECTS.)
+
+DAY 1 THROUGH 3...
+MAX/MIN TEMP OR MIN/MAX TEMP(F).....MAXIMUM/MINIMUM AIR TEMPERATURE
+TEMP(F).............................AIR TEMPERATURE
+DEWPT(F)............................DEW POINT TEMPERATURE
+MIN/MAX RH OR MAX/MIN RH(%).........MAXIMUM/MINIMUM HUMIDITY
+RH(%)...............................RELATIVE HUMIDITY
+WIND DIR(8 POINT COMPASS)...........20 FT. WIND DIRECTION
+WIND DIR DEG(DEGREES)...............20 FT. WIND DIRECTION IN TENS OF DEGREES
+                                    RELATIVE TO DUE NORTH.
+     EXAMPLE: 09 = 90 DEGREES = EAST; 18 = 180 DEGREES = SOUTH;
+              27 = 270 DEGREES = WEST; 36 = 360 DEGREES = NORTH
+WIND SPD(MPH).......................20 FT. WIND SPEED
+WIND GUST(MPH)......................20 FT. WIND GUST
+WIND CHILL..........................WIND CHILL TEMPERATURE
+HEAT INDX...........................HEAT INDEX
+CLOUDS(CAT).........................CLOUD COVER CATEGORY
+     EXAMPLE: CL = CLEAR; FW = FEW; SC = SCATTERED;
+              B1 = MOSTLY CLOUDY; B2 = CONSIDERABLE CLOUDS; OV = OVERCAST
+CLOUDS(%)...........................CLOUD COVER AS A PERCENTAGE
+VSBY................................VISIBILITY VALUE IN STATUTE MILES
+POP 12HR(%).........................PROBABILITY FOR ACCUMULATING PRECIPITATION
+QPF 12HR(IN)........................LIQUID EQUIVALENT PRECIPITATION AMOUNT
+WEATHER...
+     TYPE...
+       RAIN...........RAIN
+       RAIN SHWRS.....RAIN SHOWERS
+       TSTMS..........THUNDERSTORMS
+       DRIZZLE........DRIZZLE
+       SNOW...........SNOW
+       SNOWSHWRS......SNOW SHOWERS
+       SLEET..........SLEET
+       FLURRIES.......FLURRIES
+       FRZG RAIN......FREEZING RAIN
+       FRZG DRZL......FREEZING DRIZZLE
+     COVERAGE...
+       S..............SLIGHT CHANCE
+       C..............CHANCE
+       L..............LIKELY
+       O..............OCCASIONAL
+       D..............DEFINITE
+       AR.............AREAS
+       PA.............PATCHY
+OBVIS...............................OBSTRUCTION TO VISIBILITY
+     TYPE...
+       F..............FOG
+       PF.............PATCHY FOG
+       F+.............DENSE FOG
+       H..............HAZE
+       BS.............BLOWING SNOW
+       K..............SMOKE
+       BD.............BLOWING DUST
+       AF.............VOLCANIC ASHFALL
+LAL(CAT)............................LIGHTNING ACTIVITY LEVEL
+HAINES(CAT).........................HAINES INDEX
+MIX HGT(FT AGL).....................MIXING HEIGHT
+T WIND DIR(8 POINT COMPASS).........TRANSPORT WIND DIRECTION
+T WIND SPD(MPH).....................TRANSPORT WIND SPEED
+SMOKE DISPERSION....................SMOKE DISPERSION CATEGORY
+     VALUES: VP = VERY POOR; PR = POOR; FR = FAIR; GD = GOOD
+ADI (INDEX).........................ATMOSPHERIC DISPERSION INDEX
+CEILING (FT)........................CEILING
+PRESSURE (INCHES MERCURY)...........STATION PRESSURE
+MAX LVORI (INDEX)...................LOW VISIBILITY OCCURRENCE RISK INDEX
+STABILITY (CAT).....................PASQUILL TURNER STABILITY
+WATCH/WARNING/ADVISORY...
+     EXAMPLE: W = WARNING; Y = ADVISORY; A = WATCH
+     IN EFFECT FOR THE INDICATED HOUR 
+
+DAY 4 THROUGH 7...
+MAX/MIN TEMP OR MIN/MAX TEMP(F).....MAXIMUM/MINIMUM AIR TEMPERATURE
+TEMP(F).............................AIR TEMPERATURE
+DEWPT(F)............................DEW POINT TEMPERATURE
+RH(%)...............................RELATIVE HUMIDITY
+WIND DIR............................20 FT. WIND DIRECTION
+WIND SPD(MPH).......................20 FT. WIND SPEED
+AVG CLOUDS(CAT).....................AVERAGE CLOUD COVER CATEGORY
+POP 12HR(%).........................PROBABILITY FOR ACCUMULATING PRECIPITATION
+WEATHER...
+     SEE DAY 1 THROUGH 3 WEATHER DESCRIPTIONS
+
+
+841
+FOUS54 KAKQ 052220
+PFWAKQ
+FOUS54 KAKQ 052220
+PFWAKQ
+
+EXPERIMENTAL...FIRE WEATHER POINT FORECAST MATRICES
+NATIONAL WEATHER SERVICE WAKEFIELD VA
+520 PM EST FRI DEC 5 2014
+
+MDZ021-060900-
+BLACKWATER NWR RAWS-DORCHESTER MD
+38.42N  76.00W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      42          58          38          47          32
+TEMP             43 43 44 45 46 51 55 55 51 50 47 43 39 39 44 44 37 42 40 36 33
+DEWPT            42 43 44 45 46 49 51 51 51 47 42 40 37 33 29 28 27 28 28 29 31
+MAX/MIN RH                  100          80         100          50          88
+RH               96100100100100 91 86 87100 89 83 88 92 79 56 54 67 56 62 75 91
+WIND DIR         SE SE  S  S  S  S  S  S SW  W  N  N  N  N  N  N  N  N NE NE NE
+WIND DIR DEG     12 15 20 19 19 19 18 18 21 28 34 34 35 00 01 02 02 02 03 03 04
+WIND SPD          3  3  3  3  4  4  6  6  3  9 14 16 16 16 16 12 10 10 10  9  8
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV B2 B1 SC FW FW FW SC SC B1 B1
+CLOUDS(%)       100100 98 93 91 95100100100100100 80 60 41 24 19 14 29 44 55 67
+VSBY              5  6  6 10 10  6  4  4  4  6  6  6 10 10 10 10 10 10 10 10 10
+POP 12HR                     30         100          80          10          10
+QPF 12HR                   0.01        0.32        0.34           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 C  S                                                      
+RAIN SHWRS        C              C  D  D  D  L  L  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  3     3     3     3     3     2     4     4     4     4
+MIX HGT               300   300   500   500   500   800  2300  2600  1400   800
+T WIND DIR              S     S     S    SE    NW     N     N    NE    NE    NE
+T WIND SPD              2     3     5     5    19    29    27    24    16    13
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     4     4     9     8    24    34    55    56    13    15
+MAX LVORI              10     9     9     8     8     4     4     3     2     5
+STABILITY               D     D     C     D     D     D     D     D     E     D
+CEILING              3200  4000  8000  1000   500  1000  9900 30000 26600 23500
+PRESSURE            30.37 30.29 30.21 30.10 30.05 30.17 30.36 30.45 30.56 30.56
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          45    37    49    33    44    31    45    32    46
+TEMP          40 37 39 38 48 40 36 34 43 37 33 32 43 38 35 33 44 40
+DEWPT         39 37 37 36 40 36 30 28 27 27 25 24 26 28 27 28 30 31
+MIN/MAX RH       85   100    62    85    48    74    46    82    51
+RH            95100 95 95 74 84 79 79 53 67 70 74 52 67 75 84 57 72
+WIND DIR      NE NE NE NW  W  W  W  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD       8  6  4  5  8 12 12 12 13 10 10  9 10  4  4  4  5  3
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10     5     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+MDZ022-060900-
+POWELLVILLE RAWS - WICOMICO MD
+38.35N  75.42W ELEV. 16 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      44          61          39          48          33
+TEMP             45 45 47 48 48 54 57 57 54 53 48 44 40 42 46 44 38 43 40 37 34
+DEWPT            43 44 45 46 46 50 54 53 52 48 44 41 38 34 31 30 29 30 32 33 34
+MAX/MIN RH                   97          81          94          53          97
+RH               94 96 95 94 94 87 89 86 94 84 84 89 92 74 56 57 69 61 73 86100
+WIND DIR          E SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     11 13 18 18 19 19 19 19 19 27 35 00 00 01 02 03 03 03 04 04 05
+WIND SPD          3  2  2  3  3  4  8  8  6 10 14 17 17 18 19 16 12 12 13 12 11
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        95 96 98 93 92 93 99100100100100 93 87 57 28 21 14 28 41 54 66
+VSBY              5  6  6 10 10  6  4  4  4  4  6  6  6 10 10 10 10 10 10 10 10
+POP 12HR                     30         100          80          20          10
+QPF 12HR                      0        0.24        0.48           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S  S                                                      
+RAIN SHWRS        C              C  D  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  3     3     3     3     3     2     4     4     4     4
+MIX HGT               300   300   700   700   900   900  2400  2700  1500  1000
+T WIND DIR             SW     S     S     S     W     N     N    NE    NE    NE
+T WIND SPD              1     2     8     5    13    32    29    26    20    24
+SMOKE DISP             PR    PR    PR    PR    PR    PR    GD    GD    PR    PR
+ADI                     1     4    11     9    23    38    62    63    25    29
+MAX LVORI              10     9     6     7     6     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     E     D
+CEILING              3200  4000  8000  1000   300  1000  3200 30000 30000  1000
+PRESSURE            30.34 30.27 30.18 30.07 30.01 30.09 30.28 30.38 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          48    39    49    32    44    31    45    33    46
+TEMP          43 39 41 40 48 40 35 33 43 37 34 32 43 39 35 34 45 40
+DEWPT         41 39 39 38 40 36 30 29 28 27 25 25 26 28 27 28 30 31
+MIN/MAX RH       85   100    65    88    50    75    46    80    51
+RH            92100 92 93 75 85 82 84 56 68 71 75 51 65 71 81 56 70
+WIND DIR      NE NE NE NW  W  W  W  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      12 10  8  9  9 12 14 13 14 11 10 10 10  6  6  5  6  5
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10    10     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+MDZ025-060900-
+ASSATEAGUE ISLAND RAWS - WORCHESTER MD
+38.08N  75.20W ELEV. 12 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          58          43          49          39
+TEMP             47 47 48 49 50 53 55 54 52 53 50 47 43 45 48 46 43 46 44 42 39
+DEWPT            45 47 48 49 50 51 53 53 52 50 46 44 42 39 36 35 35 36 38 38 39
+MAX/MIN RH                  100          87         100          60          95
+RH               96 98100100100 95 94 97100 89 85 90 97 79 63 66 73 69 77 85 99
+WIND DIR         SE SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     12 13 16 18 19 18 19 18 18 26 35 00 00 01 02 02 03 03 04 05 05
+WIND SPD          6  5  6  5  6  6 10  9 10 13 17 24 26 26 26 25 24 23 21 20 19
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV OV B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        93 94 96 92 89 92 95 98100100100 95 90 60 30 22 14 28 41 53 64
+VSBY              5  6 10 10 10  6  6  4  4  4  6  6  6 10 10 10  5  5  5  5 10
+POP 12HR                     20         100          80          20          10
+QPF 12HR                      0        0.19        0.50           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S                                                         
+RAIN SHWRS        S              C  L  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     3     2     3     4     4     4
+MIX HGT               300   300   600   500  1100  1500  2500  2700  1900  1700
+T WIND DIR             SE     S     S     S    SW     N     N    NE    NE    NE
+T WIND SPD              4     2     5     5    11    36    39    39    36    34
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    GD    GD    FR
+ADI                     6     4     7     6    23    63    89    89    43    59
+MAX LVORI              10    10     9     9     9     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     D     D
+CEILING              8000  4000  8000  1700   700  1000  1900 30000  1700  1000
+PRESSURE            30.37 30.30 30.22 30.11 30.05 30.09 30.28 30.39 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    44    49    37    43    36    44    38    45
+TEMP          47 44 45 44 48 43 39 37 42 39 37 36 43 41 39 38 44 42
+DEWPT         44 44 44 43 43 39 34 32 31 30 29 28 29 30 29 30 32 33
+MIN/MAX RH       86   100    70    87    57    74    53    72    58
+RH            91100 99 99 81 86 81 81 64 70 71 74 57 66 68 73 62 72
+WIND DIR      NE NE NE  N  W  W NW  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      17 14 10 12 10 16 18 18 17 16 14 14 13 11 10  9  8  8
+AVG CLOUDS    B1 B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10    10     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+VAZ099-060900-
+CHINCOTEAGUE RAWS - ACCOMACK VA
+37.99N  75.29W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          58          43          48          39
+TEMP             47 47 47 49 50 53 55 54 52 53 52 48 43 44 48 46 43 46 45 43 39
+DEWPT            46 47 47 49 50 51 53 53 52 50 46 44 43 39 36 35 35 36 37 38 39
+MAX/MIN RH                  100          87         100          60          95
+RH               93 98100100100 95 93 97100 87 83 88 97 81 63 65 72 68 73 82 99
+WIND DIR          E SE  S  S  S  S  S  S  S  W  N  N  N  N  N NE NE NE NE NE NE
+WIND DIR DEG     11 12 16 18 19 18 19 18 18 26 34 00 00 01 02 02 03 03 04 05 05
+WIND SPD          6  5  5  5  6  6 10  9 10 12 16 24 26 26 26 25 23 23 21 20 19
+CLOUDS           OV OV OV OV OV OV OV OV OV OV OV OV OV B1 SC FW FW SC SC B1 B1
+CLOUDS(%)        92 93 95 91 88 91 94 97100100100 95 90 60 30 22 14 28 42 53 64
+VSBY              5  9 10 10 10  6  5  4  4  4  6  6  6 10 10 10  5  5  5  5 10
+POP 12HR                     20         100          80          20          10
+QPF 12HR                      0        0.19        0.48           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                 S                                                         
+RAIN SHWRS        S              C  L  D  D  D  L  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     3     2     3     4     4     4
+MIX HGT               300   300   600   500  1300  1600  2400  2600  2000  1800
+T WIND DIR             SE     S     S     S    SW     N     N    NE    NE    NE
+T WIND SPD              4     2     5     5    12    36    37    39    36    34
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    GD    GD    FR
+ADI                     6     4     7     7    29    64    87    87    50    60
+MAX LVORI              10    10     9     9     9     4     4     3     3     4
+STABILITY               D     D     C     D     D     D     D     D     D     D
+CEILING              8000  4300  8000  1700   300  1000  1700 30000  1700  1200
+PRESSURE            30.37 30.30 30.22 30.11 30.05 30.09 30.28 30.38 30.51 30.51
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    43    49    37    43    35    44    37    45
+TEMP          47 43 44 43 48 43 39 37 42 39 37 35 43 40 38 37 44 41
+DEWPT         44 43 44 43 42 38 34 31 30 30 28 28 29 30 29 30 32 33
+MIN/MAX RH       85   100    70    86    57    74    52    74    58
+RH            91100 97 99 81 84 81 79 63 70 70 74 57 66 70 76 63 73
+WIND DIR      NE NE NE  N  W  W NW  W NW NW NW NW NW NW NW NW  W  W
+WIND SPD      17 14 10 12 10 16 18 17 16 16 14 14 13 10  9  8  6  6
+AVG CLOUDS    B1 B2 OV OV B1 B1 SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         20    50    30    20    10     5     0     0     0
+RAIN              S  C  C  C  C  S  S                              
+
+$$
+
+VAZ081-060900-
+JAMES RIVER NWR RAWS-PRINCE GEORGE VA
+37.25N  77.25W ELEV. 50 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      44          61          40          49          32
+TEMP             45 46 46 46 47 52 58 60 56 57 53 45 41 42 47 47 39 46 44 37 33
+DEWPT            43 44 44 44 44 49 53 53 53 48 43 40 37 33 30 29 28 28 28 29 30
+MAX/MIN RH                   93          74          91          45          88
+RH               93 91 93 93 89 89 84 78 91 73 69 82 86 71 51 49 64 49 53 72 88
+WIND DIR         SE SE  S  S  S  S  S  S SW  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     11 14 19 20 20 19 19 18 22 28 35 35 35 00 01 01 01 01 01 01 00
+WIND SPD          1  1  1  1  2  4  5  5  3  6 10 11 10 11 12 10  8  6  6  5  4
+CLOUDS           OV OV B2 B2 B2 OV OV OV OV OV OV B2 B1 SC SC FW FW SC B1 B1 B2
+CLOUDS(%)        96 92 85 80 87 97100100100 98 95 78 61 45 30 25 21 36 51 60 70
+VSBY             10 10 10 10  6  6  4  4  6  6  6  6 10 10 10 10 10 10 10 10  9
+POP 12HR                     30         100          70          10          10
+QPF 12HR                   0.01        0.40        0.17           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                    C  C  D  D  L  L  C  S                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  2     4     4     3     2     2     4     4     4     4
+MIX HGT               300   300   600   700  1500  1500  2200  2500   900   500
+T WIND DIR             SE     S     S     S    NW     N     N     N    NE    NE
+T WIND SPD              4     0     4     9    19    26    24    21    18    16
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     3     1     7    12    27    41    45    45    16    18
+MAX LVORI               8     8     6     6     5     4     4     3     2     5
+STABILITY               D     D     B     D     D     D     C     C     F     E
+CEILING              3200  6500  1000  1000  1000  1000  3200 30000 26600  1700
+PRESSURE            30.26 30.20 30.12  30.0 29.96 30.09 30.26 30.32 30.43 30.43
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          45    37    52    31    46    28    48    29    50
+TEMP          42 37 39 38 50 41 35 32 44 36 32 29 46 38 33 30 48 40
+DEWPT         37 37 37 37 38 34 29 26 26 26 24 23 25 27 26 25 29 30
+MIN/MAX RH       75   100    54    82    43    78    40    81    42
+RH            81100 92 94 64 76 79 78 49 67 72 78 43 65 75 81 47 67
+WIND DIR      NE  N  N NW  W  W  W  W NW NW NW  W  W  W  W NW SW  S
+WIND SPD       5  3  3  3  6  6  5  4  9  3  3  3  3  1  3  1  2  1
+AVG CLOUDS    B2 B2 OV B2 B1 SC SC SC SC SC SC SC SC FW SC SC SC SC
+POP 12HR         30    40    20    10     5     0     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+VAZ096-060900-
+GREAT DISMAL SWAMP RAWS-SUFFOLK VA
+36.61N  76.55W ELEV. 35 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      47          65          43          48          39
+TEMP             49 50 49 48 49 60 63 63 59 58 53 48 44 43 47 47 42 46 44 42 40
+DEWPT            46 46 47 47 48 52 57 56 56 52 49 46 42 39 36 35 35 36 37 38 40
+MAX/MIN RH                  100          72          94          60          95
+RH               89 87 92 96 96 76 81 79 91 80 85 92 92 85 66 63 75 67 76 87 99
+WIND DIR          E  N  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N NE
+WIND DIR DEG     07 02 34 28 21 21 20 18 18 26 34 35 00 00 01 01 02 02 02 02 03
+WIND SPD          2  2  1  1  2  5  5  4  5  9 10 14 14 16 16 14 12 11 11 10  9
+CLOUDS           B2 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC SC B1 B2
+CLOUDS(%)        71 77 80 78 79 89 96 98100100 99 95 90 70 51 40 29 39 50 60 71
+VSBY             10 10 10 10 10  6  5  4  5  6  6  6  6 10 10 10  5  5  5  5  6
+POP 12HR                     10          90          70          20          10
+QPF 12HR                      0        0.23        0.24           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  C  S                        
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     3     4     4
+MIX HGT               300   300  1000  1100  1700  1400  2500  2800  1800  1200
+T WIND DIR             NE     N     S     W     W     N     N     N     N    NE
+T WIND SPD              2     2    10    10    13    27    27    28    26    23
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    FR    PR
+ADI                     3     2    26    23    28    36    59    65    33    30
+MAX LVORI               8    10     6     6     5     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     D     D     E     D
+CEILING              8000  8000  3600  2400  1700  1000  1400  3200  2400  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.09 30.26 30.34 30.42 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          51    41    53    34    46    31    48    32    50
+TEMP          45 42 43 42 52 43 38 35 45 38 34 32 46 39 35 33 48 41
+DEWPT         45 42 41 40 43 38 32 29 29 29 27 26 29 30 28 28 33 33
+MIN/MAX RH       86   100    60    87    49    79    45    82    47
+RH            99100 93 95 70 84 81 80 53 70 76 79 51 70 75 83 54 73
+WIND DIR      NE  N  N NW  W  W NW NW NW  W NW NW NW NW NW  N NW NW
+WIND SPD      10  8  5  6  6  8  9  6 10  5  5  4  4  3  2  3  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     5     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+VAZ098-060900-
+BACK BAY NWR RAWS-VIRGINIA BEACH VA
+36.68N  75.93W ELEV. 8 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      50          63          45          51          44
+TEMP             53 53 53 54 53 59 63 62 57 55 52 47 46 47 48 50 49 48 47 45 45
+DEWPT            49 49 50 51 52 53 55 55 55 52 50 47 46 43 40 40 40 41 42 43 43
+MAX/MIN RH                   94          71         100          65          93
+RH               86 87 91 91 95 79 75 79 94 91 94100100 86 75 70 71 76 83 91 94
+WIND DIR         NE NE  E SE  S  S  S  S  S  W  N  N  N  N  N  N NE NE NE NE NE
+WIND DIR DEG     05 06 08 14 19 19 20 18 18 26 34 35 00 00 01 02 02 03 03 04 04
+WIND SPD          4  4  3  3  3  6  6  6  9 11 16 21 24 25 26 25 24 23 21 20 19
+CLOUDS           B1 B2 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 SC SC SC SC B1 B1
+CLOUDS(%)        69 76 80 79 78 85 90 95100100100 95 90 75 60 45 29 39 48 59 69
+VSBY             10 10 10 10 10  6  6  4  4  4  6  6  6  6 10 10  5  5  5  5  6
+POP 12HR                     10          90          80          20          10
+QPF 12HR                      0        0.17        0.29           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       S  L  D  D  D  L  C  S  S                     
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     4     4
+MIX HGT               300   300  1100  1000  1600  1800  2500  2800  2000  1900
+T WIND DIR              E    NE    SE     S     N     N     N     N    NE    NE
+T WIND SPD              5     3     8     6    11    34    37    41    40    36
+SMOKE DISP             PR    PR    PR    PR    PR    FR    GD    VG    GD    GD
+ADI                     7     4    18    17    29    70    86    98    57    67
+MAX LVORI               8     9     6     8     7     4     4     3     4     4
+STABILITY               E     F     C     C     D     D     D     D     D     D
+CEILING              8900  8000  8000  4000   300   300  1000  1700  1000  1000
+PRESSURE            30.36 30.29 30.23 30.11 30.04 30.09 30.26 30.34 30.42 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          53    46    52    39    45    37    47    40    49
+TEMP          48 50 48 46 51 45 41 39 44 41 39 38 46 43 41 40 48 44
+DEWPT         47 48 46 45 43 40 36 33 31 31 30 30 30 31 31 32 34 35
+MIN/MAX RH       85    96    65    85    54    74    50    73    54
+RH            98 93 94 96 74 83 80 80 59 66 71 73 53 62 67 74 59 69
+WIND DIR      NE NE  N NW  W  W NW NW NW NW NW NW NW NW NW  N NW NW
+WIND SPD      16 13 10 11 10 12 16 13 13 10 10 10  9  6  4  4  4  2
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC SC SC SC SC SC SC SC SC SC
+POP 12HR         40    50    20    10     5     5     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+NCZ014-060900-
+BUCKLAND ELEMENTARY-GATES NC
+36.37N  76.76W ELEV. 25 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          65          43          49          37
+TEMP             48 49 48 48 49 59 63 62 59 58 53 47 43 44 47 47 42 46 43 40 37
+DEWPT            45 46 46 47 48 52 56 56 56 52 49 45 42 39 36 35 34 34 35 37 37
+MAX/MIN RH                   97          71          96          59         100
+RH               89 89 93 96 95 78 78 80 90 80 87 93 96 81 65 63 73 65 73 89100
+WIND DIR          E NE  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     08 02 35 28 21 21 19 19 19 26 34 35 00 00 01 01 01 01 01 02 02
+WIND SPD          3  2  1  1  2  4  5  4  4  8 10 13 13 14 16 13 10 10 10  9  8
+CLOUDS           B2 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        70 74 78 77 79 90 96 98100 99 97 94 90 71 52 41 29 40 51 61 71
+VSBY             10 10 10 10 10  6  4  4  6  6  6  6 10 10 10 10  5  5  5  5  6
+POP 12HR                     10          90          70          10          10
+QPF 12HR                      0        0.24        0.21           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     3     3     4
+MIX HGT               300   300  1000  1100  1600  1400  2300  2500  1600  1100
+T WIND DIR             NE    NE     S     W     W     N     N     N     N     N
+T WIND SPD              3     2     8     6    14    26    25    27    25    18
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    FR    PR    PR
+ADI                     3     2    22    19    28    35    51    58    32    20
+MAX LVORI               8    10     7     6     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     D     D     E     D
+CEILING              8000  8000  3900  5700  2100  1000  1700  3200  3200  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.09 30.26 30.34 30.43 30.42
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          50    40    52    33    46    30    48    30    50
+TEMP          44 41 42 41 51 42 37 34 45 37 33 31 46 38 34 31 48 40
+DEWPT         44 41 40 39 41 37 31 28 28 29 27 25 28 30 28 27 31 32
+MIN/MAX RH       90   100    60    86    47    80    43    85    46
+RH           100100 94 94 69 83 80 79 52 71 77 78 49 72 77 85 52 74
+WIND DIR      NE  N  N NW  W  W NW NW NW  W NW NW NW NW NW  N NW NW
+WIND SPD      10  5  4  4  6  5  6  5  9  4  4  3  3  2  2  2  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC FW FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     0     0     0     0
+RAIN           S  C  C  C  S  S                                    
+
+$$
+
+NCZ015-060900-
+ELIZABETH CITY RAWS-PASQUOTANK NC
+36.21N  76.16W ELEV. 15 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      47          66          44          51          41
+TEMP             51 53 51 50 51 60 64 63 57 56 51 46 44 46 49 47 47 47 45 42 41
+DEWPT            48 49 49 50 50 53 56 56 55 53 50 46 44 44 41 40 39 41 42 42 41
+MAX/MIN RH                   99          70         100          70         100
+RH               87 84 93 99 95 78 75 78 94 91 99100100 92 74 76 75 79 90100100
+WIND DIR         NE NE NE  E  S  S  S  S  S  W NW  N  N  N  N  N  N  N NE NE NE
+WIND DIR DEG     05 04 03 11 18 20 20 18 18 26 33 35 00 00 01 01 02 02 03 03 03
+WIND SPD          4  3  3  2  3  5  5  5  6  9 10 16 19 20 21 20 18 17 16 16 13
+CLOUDS           B1 B1 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 B1 SC SC SC B1 B1
+CLOUDS(%)        61 64 78 75 77 84 89 95100100100 95 90 78 66 51 36 43 50 59 69
+VSBY             10 10 10 10 10  6  6  6  6  6  6  6  6  6 10 10  5  5  5  5  6
+POP 12HR                     10          80          70          20          10
+QPF 12HR                      0        0.14        0.25           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          C
+RAIN SHWRS                       S  L  L  L  L  L  C  S  S                     
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     3
+MIX HGT               300   300  1200  1100  1400  1200  2600  2900  1900  1400
+T WIND DIR             NE    NE     S     S     W     N     N     N     N    NE
+T WIND SPD              4     2     8     5    11    27    33    34    32    31
+SMOKE DISP             PR    PR    PR    PR    PR    PR    GD    GD    FR    PR
+ADI                     6     4    19    17    21    44    75    85    37    48
+MAX LVORI               8    10     6     8     6     5     4     3     4     4
+STABILITY               F     F     C     C     D     D     D     D     D     D
+CEILING              8900  8900  4700  3200   300  1000  1000  1700  1400  1000
+PRESSURE            30.36 30.29 30.23 30.11 30.04 30.09 30.25 30.31 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          54    44    54    37    46    34    48    37    51
+TEMP          48 49 46 45 53 44 40 37 45 40 36 35 46 42 39 38 49 44
+DEWPT         48 49 45 44 44 40 35 31 31 30 29 29 30 32 30 31 34 35
+MIN/MAX RH       95   100    62    85    51    78    48    77    49
+RH           100 99 97 99 71 84 82 79 57 68 76 77 53 66 72 77 55 70
+WIND DIR      NE NE  N NW  W  W NW NW NW NW NW NW NW NW NW  N NW NW
+WIND SPD      16 11  9  9  6  9 12 10 10  8  8  8  5  4  4  4  3  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC SC SC FW FW SC SC SC SC SC SC SC
+POP 12HR         40    40    20    10     5     0     0     0     0
+RAIN           C  C  C  C  S  S                                    
+
+$$
+
+NCZ030-060900-
+PEANUT BELT RESEARCH STATION NC-BERTIE NC
+36.13N  77.18W ELEV. 61 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          65          42          49          37
+TEMP             48 49 48 49 50 57 63 62 59 58 53 46 43 43 47 46 42 46 44 40 37
+DEWPT            46 46 46 47 47 52 57 56 56 52 49 45 42 38 35 33 31 32 33 35 36
+MAX/MIN RH                   93          75         100          57          91
+RH               93 89 93 92 89 83 80 81 90 81 86 96 96 81 64 60 65 59 66 81 96
+WIND DIR          E NE  N  W SW SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     07 03 01 29 21 21 19 18 19 27 35 35 35 00 01 01 01 01 01 01 01
+WIND SPD          2  2  1  1  1  3  4  3  4  6 10 11 11 12 14 12 10 10 10  9  6
+CLOUDS           B1 B2 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        68 70 75 79 80 89 97 99100 98 95 89 88 71 55 42 30 40 51 61 71
+VSBY             10 10 10 10 10  6  4  4  6  6  6  6 10 10 10 10 10 10 10 10  6
+POP 12HR                     10          80          70          10          10
+QPF 12HR                      0        0.24        0.15           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          S
+RAIN SHWRS                       C  D  D  L  L  C  S                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     2
+MIX HGT               300   300  1000  1000  1600  1500  2200  3000  1500  1000
+T WIND DIR              E    NE     S     W     W     N     N     N     N     N
+T WIND SPD              5     2     5     5    13    26    24    26    24    17
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    PR    PR
+ADI                     4     1    15    12    27    35    47    63    30    19
+MAX LVORI               7     8     7     6     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     C     C     E     E
+CEILING              8000  8000  3200  6500   300  1000  1700  3200  3200  1700
+PRESSURE            30.30 30.25 30.17 30.05 30.01 30.07 30.25 30.30 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          49    39    53    32    46    29    48    29    51
+TEMP          44 41 41 40 51 42 36 33 44 37 32 30 46 38 33 30 49 40
+DEWPT         43 41 39 38 40 36 31 27 27 28 26 24 26 29 27 26 30 32
+MIN/MAX RH       86   100    56    82    45    78    41    85    44
+RH            95100 94 94 66 79 82 78 51 70 78 78 45 71 78 85 48 72
+WIND DIR      NE  N  N NW  W  W NW NW NW NW NW NW NW  W  W NW  W NW
+WIND SPD       8  5  3  3  5  4  5  3  6  3  3  3  3  1  1  1  2  2
+AVG CLOUDS    B2 OV OV B2 B1 SC SC FW FW FW FW SC SC SC SC FW SC FW
+POP 12HR         40    40    10    10     5     0     0     0     0
+RAIN           S  C  C  C                                          
+
+$$
+
+NCZ030-060900-
+GREEN CROSS RAWS-BERTIE NC
+36.01N  76.90W ELEV. 52 FT
+520 PM EST FRI DEC 5 2014
+
+DATE           12/05/14      SAT 12/06/14            SUN 12/07/14            MON
+UTC 3HRLY     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+EST 3HRLY     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+
+MIN/MAX                      46          66          44          49          38
+TEMP             49 51 49 49 50 59 64 63 59 58 53 47 44 46 48 47 44 46 44 40 38
+DEWPT            47 47 47 48 48 53 57 57 57 54 51 47 43 40 37 35 34 35 36 38 38
+MAX/MIN RH                   96          74         100          60         100
+RH               93 86 93 95 93 80 80 83 95 86 92100 98 81 65 64 68 65 73 92100
+WIND DIR          E NE  N  W  S SW  S  S  S  W  N  N  N  N  N  N  N  N  N  N  N
+WIND DIR DEG     07 03 01 28 19 21 20 18 19 27 34 35 35 00 01 01 01 01 01 01 01
+WIND SPD          3  2  1  1  1  3  3  3  4  6  9 12 11 13 14 12 10 10 10  9  6
+CLOUDS           B1 B1 B2 B2 B2 B2 OV OV OV OV OV OV OV B2 B1 SC SC SC B1 B1 B2
+CLOUDS(%)        62 65 75 76 78 87 95 98100 98 96 92 89 75 60 47 34 42 51 60 70
+VSBY             10 10 10 10 10  6  6  4  6  6  6  6 10 10 10 10  5  5  5  5  6
+POP 12HR                     10          80          70          10          10
+QPF 12HR                      0        0.19        0.18           0           0
+SNOW 12HR                 00-00       00-00       00-00                        
+RAIN                                                                          C
+RAIN SHWRS                       C  L  D  L  L  C  C                           
+LAL                     1     1     1     1     1     1     1     1     1     1
+HAINES                  4     4     3     3     3     2     2     2     2     2
+MIX HGT               300   300  1100  1100  1700  1500  2300  3000  1700  1300
+T WIND DIR              E    NE     S     W     W     N     N     N     N     N
+T WIND SPD              5     2     8     6    11    25    25    26    26    18
+SMOKE DISP             PR    PR    PR    PR    PR    PR    FR    GD    PR    PR
+ADI                     4     1    24    20    24    34    50    61    28    21
+MAX LVORI               7     8     8     8     6     5     4     3     3     5
+STABILITY               F     F     B     D     D     D     C     C     E     E
+CEILING              8900  8000  4000  2400   700  1000  1000  2400  2400  1000
+PRESSURE            30.32 30.26 30.19 30.07 30.02 30.07 30.25 30.31 30.39 30.38
+
+
+DATE           12/08 TUE 12/09/14 WED 12/10/14 THU 12/11/14 FRI 12/12/14
+UTC 6HRLY     18 00 06 12 18 00 06 12 18 00 06 12 18 00 06 12 18 00
+EST 6HRLY     13 19 01 07 13 19 01 07 13 19 01 07 13 19 01 07 13 19
+
+MAX/MIN          51    40    53    33    46    30    49    30    51
+TEMP          45 44 43 41 52 42 37 34 45 37 33 31 47 39 34 31 49 41
+DEWPT         45 44 41 40 42 38 32 28 28 29 27 25 28 30 28 27 31 33
+MIN/MAX RH       90   100    58    89    47    78    42    85    46
+RH            99100 93 96 69 86 82 78 51 72 77 78 47 71 78 85 50 73
+WIND DIR      NE  N  N NW  W  W NW NW NW NW NW NW NW NW NW  N  W NW
+WIND SPD      10  5  4  4  5  4  5  3  6  3  3  3  3  1  2  2  2  1
+AVG CLOUDS    B2 OV OV B2 B1 SC SC FW FW FW FW SC SC SC SC FW SC SC
+POP 12HR         40    40    10    10     5     0     0     0     0
+RAIN           C  C  C  C                                          
+
+$$
+
+EXPERIMENTAL ONLY...THIS PRODUCT IS FOR PLANNING AND REVIEW PURPOSES ONLY AND
+IS NOT TO BE SUBSTITUTED FOR AN OFFICIAL FIRE WEATHER SPOT
+FORECAST.
+BELOW IS A WEATHER ELEMENT KEY FOR THIS PRODUCT.
+(NOTE...WINDS DO NOT REFLECT LOCAL TERRAIN EFFECTS.)
+
+DAY 1 THROUGH 3...
+MAX/MIN TEMP OR MIN/MAX TEMP(F).....MAXIMUM/MINIMUM AIR TEMPERATURE
+TEMP(F).............................AIR TEMPERATURE
+DEWPT(F)............................DEW POINT TEMPERATURE
+MIN/MAX RH OR MAX/MIN RH(%).........MAXIMUM/MINIMUM HUMIDITY
+RH(%)...............................RELATIVE HUMIDITY
+WIND DIR(8 POINT COMPASS)...........20 FT. WIND DIRECTION
+WIND DIR DEG(DEGREES)...............20 FT. WIND DIRECTION IN TENS OF DEGREES
+                                    RELATIVE TO DUE NORTH.
+     EXAMPLE: 09 = 90 DEGREES = EAST; 18 = 180 DEGREES = SOUTH;
+              27 = 270 DEGREES = WEST; 36 = 360 DEGREES = NORTH
+WIND SPD(MPH).......................20 FT. WIND SPEED
+WIND GUST(MPH)......................20 FT. WIND GUST
+WIND CHILL..........................WIND CHILL TEMPERATURE
+HEAT INDX...........................HEAT INDEX
+CLOUDS(CAT).........................CLOUD COVER CATEGORY
+     EXAMPLE: CL = CLEAR; FW = FEW; SC = SCATTERED;
+              B1 = MOSTLY CLOUDY; B2 = CONSIDERABLE CLOUDS; OV = OVERCAST
+CLOUDS(%)...........................CLOUD COVER AS A PERCENTAGE
+VSBY................................VISIBILITY VALUE IN STATUTE MILES
+POP 12HR(%).........................PROBABILITY FOR ACCUMULATING PRECIPITATION
+QPF 12HR(IN)........................LIQUID EQUIVALENT PRECIPITATION AMOUNT
+WEATHER...
+     TYPE...
+       RAIN...........RAIN
+       RAIN SHWRS.....RAIN SHOWERS
+       TSTMS..........THUNDERSTORMS
+       DRIZZLE........DRIZZLE
+       SNOW...........SNOW
+       SNOWSHWRS......SNOW SHOWERS
+       SLEET..........SLEET
+       FLURRIES.......FLURRIES
+       FRZG RAIN......FREEZING RAIN
+       FRZG DRZL......FREEZING DRIZZLE
+     COVERAGE...
+       S..............SLIGHT CHANCE
+       C..............CHANCE
+       L..............LIKELY
+       O..............OCCASIONAL
+       D..............DEFINITE
+       AR.............AREAS
+       PA.............PATCHY
+OBVIS...............................OBSTRUCTION TO VISIBILITY
+     TYPE...
+       F..............FOG
+       PF.............PATCHY FOG
+       F+.............DENSE FOG
+       H..............HAZE
+       BS.............BLOWING SNOW
+       K..............SMOKE
+       BD.............BLOWING DUST
+       AF.............VOLCANIC ASHFALL
+LAL(CAT)............................LIGHTNING ACTIVITY LEVEL
+HAINES(CAT).........................HAINES INDEX
+MIX HGT(FT AGL).....................MIXING HEIGHT
+T WIND DIR(8 POINT COMPASS).........TRANSPORT WIND DIRECTION
+T WIND SPD(MPH).....................TRANSPORT WIND SPEED
+SMOKE DISPERSION....................SMOKE DISPERSION CATEGORY
+     VALUES: VP = VERY POOR; PR = POOR; FR = FAIR; GD = GOOD
+ADI (INDEX).........................ATMOSPHERIC DISPERSION INDEX
+CEILING (FT)........................CEILING
+PRESSURE (INCHES MERCURY)...........STATION PRESSURE
+MAX LVORI (INDEX)...................LOW VISIBILITY OCCURRENCE RISK INDEX
+STABILITY (CAT).....................PASQUILL TURNER STABILITY
+WATCH/WARNING/ADVISORY...
+     EXAMPLE: W = WARNING; Y = ADVISORY; A = WATCH
+     IN EFFECT FOR THE INDICATED HOUR 
+
+DAY 4 THROUGH 7...
+MAX/MIN TEMP OR MIN/MAX TEMP(F).....MAXIMUM/MINIMUM AIR TEMPERATURE
+TEMP(F).............................AIR TEMPERATURE
+DEWPT(F)............................DEW POINT TEMPERATURE
+RH(%)...............................RELATIVE HUMIDITY
+WIND DIR............................20 FT. WIND DIRECTION
+WIND SPD(MPH).......................20 FT. WIND SPEED
+AVG CLOUDS(CAT).....................AVERAGE CLOUD COVER CATEGORY
+POP 12HR(%).........................PROBABILITY FOR ACCUMULATING PRECIPITATION
+WEATHER...
+     SEE DAY 1 THROUGH 3 WEATHER DESCRIPTIONS
+
+

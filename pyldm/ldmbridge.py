@@ -34,28 +34,49 @@ class LDMProductReceiver(basic.LineReceiver):
                 del(self.cache[m])
         reactor.callLater(90, self.clean_cache)
 
-    def filter_product(self, buf):
-        ''' Filter the product (deduplication) '''
-        buf = buf.replace('\x1e', '').replace('\t', '')
-        lines = buf.split("\015\015\012")
+    def filter_product(self, original):
+        """ Implement Deduplication
+         - Attempt to account for all of the wild variations that can happen
+         with LDM plexing of NOAAPort, WeatherWire, TOC Socket Feed and 
+         whatever else may be happening
+         
+        1. If the character \x1e happens, we ignore it.  SPC issue here
+        2. If we find \x17, this is some weather wire thing, we ignore whatever
+           comes after it.
+        3. We ignore any extraneous trailing space or line returns
+        4. We convert tab characters to blank spaces, as one of NWSTG's systems
+           does this already and is a source of duplicates
+        5. Ignore first 11 bytes in MD5 computation
+         
+        If Okay, we end up calling self.process_data() with clean data
+        
+        """
+        clean = original.replace('\x1e', '').replace('\t', '')
+        if clean.find("\x17") > 0:
+            #log.msg("control-17 found, truncating...")
+            clean = clean[:clean.find("\x17")]
+        #log.msg("buffer[:20] is : "+ repr(buf[:20]) )
+        #log.msg("buffer[-20:] is : "+ repr(buf[-20:]) )
+        lines = clean.split("\015\015\012")
         # Trim trailing empty lines    
-        while len(lines) > 0 and lines[-1] == "":
+        while len(lines) > 0 and lines[-1].strip() == "":
             lines.pop()
         if len(lines) == 0:
-            log.msg("Whoa, filterProduct hit no lines?")
+            log.msg("ERROR: filter_product culled entire product (no data?)")
             return
-        product = "\015\015\012".join( lines )
-        digest = hashlib.md5( product ).hexdigest()
-        #log.msg("Cache size is"+ str(len(self.cache.keys())) )
-        #log.msg("digest is"+ str(digest) )
-        #log.msg("Product Size"+ str(len(product)) )
-        #log.msg("line0:"+ lines[0] +":")
+        lines[1] = lines[1][:3]
+        clean = "\015\015\012".join( lines )
+        digest = hashlib.md5( clean[11:] ).hexdigest()
+        #log.msg("Cache size is : "+ str(len(self.cache.keys())) )
+        #log.msg("digest is     : "+ str(digest) )
+        #log.msg("Product Size  : "+ str(len(product)) )
+        #log.msg("len(lines)    : "+ str(len(lines)) )
         if self.cache.has_key(digest):
             log.msg("DUP! %s" % (",".join(lines[1:5]),) )
         else:
             self.cache[ digest ] = datetime.datetime.utcnow()
             #log.msg("process_data() called")
-            self.process_data( product + "\015\015\012")
+            self.process_data(clean +"\015\015\012")
 
 
     def rawDataReceived(self, data):
