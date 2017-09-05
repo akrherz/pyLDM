@@ -25,7 +25,7 @@ class LDMProductReceiver(basic.LineReceiver):
         Params:
           dedup (boolean): should we attempt to filter out duplicates
         """
-        self.productBuffer = ""
+        self.productBuffer = u""
         self.setRawMode()
         self.cbFunc = self.process_data
         self.cache = {}
@@ -86,8 +86,14 @@ class LDMProductReceiver(basic.LineReceiver):
             self.process_data(clean + "\015\015\012")
 
     def rawDataReceived(self, data):
-        """ callback for when raw data is received on the stdin buffer, this
-        could be a partial product or lots of products """
+        """callback from twisted when raw data is received
+
+        Args:
+          data (str): string with assumed utf-8 encoding
+        """
+        # First thing is first, make sure this is unicode and not some fake
+        # str with non-ascii characters floating around
+        data = data.decode('utf-8')
         # See if we have anything left over from previous iteration
         if self.productBuffer != "":
             data = self.productBuffer + data
