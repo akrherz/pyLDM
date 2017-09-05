@@ -19,16 +19,18 @@ class LDMProductReceiver(basic.LineReceiver):
     product_start = '\001'
     product_end = '\r\r\n\003'
 
-    def __init__(self, dedup=False):
+    def __init__(self, dedup=False, isbinary=False):
         """Constructor
 
         Params:
           dedup (boolean): should we attempt to filter out duplicates
+          isbinary (boolean): should we not attempt unicode decoding?
         """
         self.productBuffer = u""
         self.setRawMode()
         self.cbFunc = self.process_data
         self.cache = {}
+        self.isbinary = isbinary
         if dedup:
             self.cbFunc = self.filter_product
             reactor.callLater(90, self.clean_cache)  # @UndefinedVariable
@@ -73,7 +75,8 @@ class LDMProductReceiver(basic.LineReceiver):
             return
         lines[1] = lines[1][:3]
         clean = "\015\015\012".join(lines)
-        digest = hashlib.md5(clean[11:]).hexdigest()
+        # Our data is unicode and needs to be encoded prior to hashing
+        digest = hashlib.md5(clean[11:].encode('utf-8')).hexdigest()
         # log.msg("Cache size is : "+ str(len(self.cache.keys())) )
         # log.msg("digest is     : "+ str(digest) )
         # log.msg("Product Size  : "+ str(len(product)) )
@@ -93,7 +96,8 @@ class LDMProductReceiver(basic.LineReceiver):
         """
         # First thing is first, make sure this is unicode and not some fake
         # str with non-ascii characters floating around
-        data = data.decode('utf-8')
+        if not self.isbinary:
+            data = data.decode('utf-8')
         # See if we have anything left over from previous iteration
         if self.productBuffer != "":
             data = self.productBuffer + data
