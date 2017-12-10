@@ -97,7 +97,7 @@ class LDMProductReceiver(basic.LineReceiver):
         # First thing is first, make sure this is unicode and not some fake
         # str with non-ascii characters floating around
         if not self.isbinary:
-            data = data.decode('utf-8')
+            data = data.decode('utf-8', 'ignore')
         # See if we have anything left over from previous iteration
         if self.productBuffer != "":
             data = self.productBuffer + data
