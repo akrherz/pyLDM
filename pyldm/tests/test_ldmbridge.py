@@ -30,8 +30,8 @@ class MyProductIngestor(ldmbridge.LDMProductReceiver):
 
 class StdioFilesTests(ReactorBuilder):
 
-    def test_nwwsoi(self):
-        """Can we process a file we got from NWWS-OI"""
+    def test_nwwsoi_dedup(self):
+        """Can we DEDUP a file from NWWS-OI with multiple duplicates"""
         reactor = self.buildReactor()
         f = get_file('nwwsoi_example.txt')
 
@@ -41,7 +41,7 @@ class StdioFilesTests(ReactorBuilder):
                                     reactor=reactor)
 
         self.runReactor(reactor)
-        assert ingest.hits == 4
+        assert ingest.hits == 1
 
     def test_deduplicate(self):
         reactor = self.buildReactor()

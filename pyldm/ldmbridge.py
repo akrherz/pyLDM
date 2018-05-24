@@ -98,7 +98,6 @@ class LDMProductReceiver(basic.LineReceiver):
         Args:
           data (str or bytes)
         """
-        # TODO to understand, is this safe from twisted's 'threading'?
         # write the data to our buffer
         self.bytes_received += self.productBuffer.write(data)
 
@@ -112,7 +111,7 @@ class LDMProductReceiver(basic.LineReceiver):
 
         # Everything up until the last one can always go...
         for token in tokens[:-1]:
-            # print("calling cbFunc()")
+            # print("calling cbFunc(%s)" % (token.decode('utf-8')[:11]))
             if self.isbinary:
                 # we send bytes
                 self.reactor.callLater(0, self.cbFunc, token)
@@ -120,8 +119,11 @@ class LDMProductReceiver(basic.LineReceiver):
                 # we send str
                 self.reactor.callLater(0, self.cbFunc,
                                        token.decode('utf-8', 'ignore'))
-        # We have some cruft left over!
-        self.productBuffer = BytesIO(tokens[-1])
+        # We have some cruft left over! be careful here as reassignment was
+        # not working as expected, so we do things more cleanly
+        self.productBuffer.seek(0)
+        self.productBuffer.truncate()
+        self.productBuffer.write(tokens[-1])
 
     def connectionLost(self, reason):
         """Fired when STDIN is closed"""
