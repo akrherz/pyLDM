@@ -141,6 +141,8 @@ class LDMProductFactory(stdio.StandardIO):
 
     def __init__(self, protocol, reactor=None, **kwargs):
         """ constructor with a protocol instance """
+        if reactor is None:
+            from twisted.internet import reactor
         protocol.reactor = reactor
         if protocol.dedup:
             reactor.callLater(90, protocol.clean_cache)
