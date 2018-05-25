@@ -1,2 +1,2 @@
 twisted
-psycopg2
+hyperlink
