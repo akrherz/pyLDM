@@ -1,7 +1,7 @@
 pyLDM
 =====
 
-This is a collection of Twisted Python code that connects you to LDM. At this
+This is a collection of **Twisted Python** code that connects you to LDM. At this
 time, the only available interface is an asynchronos PIPE to pqact.  Here is 
 an example pqact.conf entry.
 
@@ -10,12 +10,14 @@ an example pqact.conf entry.
 
 and the associated myingestor file
 
-    from pyldm import ldmbridge
+```python
     from twisted.internet import reactor
+    from pyldm import ldmbridge
     
     class MyIngestor(ldmbridge.LDMProductReceiver):
         def process_data(self, data):
-            print 'I got product', data
+            print('I got product!')
+
         def connectionLost(self, reason):
             # Exit this program when pqact closes the STDIN PIPE
             reactor.stop()
@@ -23,5 +25,6 @@ and the associated myingestor file
     ingest = MyIngestor()
     ldm = ldmbridge.LDMProductFactory(ingest)
     reactor.run()
+```
 
 The myingestor.py python script will keep running as long as pqact keeps the PIPE open to the process!
