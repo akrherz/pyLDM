@@ -36,6 +36,7 @@ install:
   # ---------------------------------
   - conda config --add channels conda-forge
   - pip install twisted
+  - pip install --upgrade .
 
 script:
   - trial -r epoll pyldm/tests/test_ldmbridge.py;
