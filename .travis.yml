@@ -35,7 +35,8 @@ install:
   # Customise the testing environment
   # ---------------------------------
   - conda config --add channels conda-forge
-  - conda install --file requirements.txt
+  - pip install twisted
+  - pip install --upgrade .
 
 script:
   - trial -r epoll pyldm/tests/test_ldmbridge.py;
