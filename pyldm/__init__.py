@@ -1,1 +1,2 @@
-__version__ = '0.0.4'
+"""here's our semver version, cough"""
+__version__ = '0.1.0'

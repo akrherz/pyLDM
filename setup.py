@@ -1,3 +1,4 @@
+"""Our setup.py file even"""
 from distutils.core import setup
 
 import pyldm
@@ -9,7 +10,7 @@ setup(
     author_email='akrherz@gmail.com',
     packages=['pyldm'],
     url='https://github.com/akrherz/pyLDM/',
-    package_dir={'pyldm':'pyldm'},
+    package_dir={'pyldm': 'pyldm'},
     license='Apache',
     description="Python utilities to interface with Unidata's LDM.",
 )
