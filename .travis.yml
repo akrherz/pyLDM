@@ -34,7 +34,6 @@ install:
   
   # Customise the testing environment
   # ---------------------------------
-  - conda config --add channels conda-forge
   - pip install twisted
   - pip install --upgrade .
 
