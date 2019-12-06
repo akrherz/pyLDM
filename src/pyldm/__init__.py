@@ -1,2 +1,4 @@
-"""here's our semver version, cough"""
-__version__ = "0.1.0"
+"""pyLDM."""
+from ._version import get_version  # noqa: E402
+
+__version__ = get_version()
