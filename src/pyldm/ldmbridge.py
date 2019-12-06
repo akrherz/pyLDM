@@ -12,9 +12,10 @@ from twisted.python import log
 
 class LDMProductReceiver(basic.LineReceiver):
     """Our Protocol"""
+
     reactor = None
-    product_start = b'\001'
-    product_end = b'\r\r\n\003'
+    product_start = b"\001"
+    product_end = b"\r\r\n\003"
 
     def __init__(self, dedup=False, isbinary=False):
         """Constructor
@@ -63,10 +64,10 @@ class LDMProductReceiver(basic.LineReceiver):
         Args:
           original (str): hopefully gaurenteed to be a string type
         """
-        clean = original.replace('\x1e', '').replace('\t', '')
+        clean = original.replace("\x1e", "").replace("\t", "")
         if clean.find("\x17") > 0:
             # log.msg("control-17 found, truncating...")
-            clean = clean[:clean.find("\x17")]
+            clean = clean[: clean.find("\x17")]
         # log.msg("buffer[:20] is : "+ repr(buf[:20]) )
         # log.msg("buffer[-20:] is : "+ repr(buf[-20:]) )
         lines = clean.split("\015\015\012")
@@ -80,7 +81,7 @@ class LDMProductReceiver(basic.LineReceiver):
         clean = "\015\015\012".join(lines)
         # first 11 characters should not be included in hex, like LDM does
         # hashlib works on bytes
-        digest = hashlib.md5(clean[11:].encode('utf-8')).hexdigest()
+        digest = hashlib.md5(clean[11:].encode("utf-8")).hexdigest()
         # log.msg("Cache size is : "+ str(len(self.cache.keys())) )
         # log.msg("digest is     : "+ str(digest) )
         # log.msg("Product Size  : "+ str(len(product)) )
@@ -117,8 +118,9 @@ class LDMProductReceiver(basic.LineReceiver):
                 self.reactor.callLater(0, self.cbFunc, token)
             else:
                 # we send str
-                self.reactor.callLater(0, self.cbFunc,
-                                       token.decode('utf-8', 'ignore'))
+                self.reactor.callLater(
+                    0, self.cbFunc, token.decode("utf-8", "ignore")
+                )
         # We have some cruft left over! be careful here as reassignment was
         # not working as expected, so we do things more cleanly
         self.productBuffer.seek(0)

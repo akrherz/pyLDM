@@ -1,6 +1,6 @@
 sudo: required
 
-dist: trusty
+dist: bionic
 
 addons:
   hosts:
@@ -11,31 +11,17 @@ env:
   matrix:
     - PYTHON_VERSION=2.7
     - PYTHON_VERSION=3.6
+    - PYTHON_VERSION=3.7
+    - PYTHON_VERSION=3.8
 language: python
 
-before_install:
-  - sudo add-apt-repository ppa:ubuntugis/ppa -y
-  - sudo apt-get update -qq
-
 install:
-  # Install miniconda
-  # -----------------
-  - wget http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
-  - bash miniconda.sh -b -p $HOME/miniconda
-  - export PATH="$HOME/miniconda/bin:$PATH"
-
-  # Create the basic testing environment
-  # ------------------------------------
-  - conda config --set always_yes yes --set changeps1 no --set show_channel_urls yes
-  - conda update -q conda
-  - . $HOME/miniconda/etc/profile.d/conda.sh
-  - conda create -n test-environment python=$PYTHON_VERSION
-  - conda activate test-environment
+  - git clone --depth 1 https://github.com/akrherz/ci_tooling.git .ci_tooling
+  - . .ci_tooling/miniconda.sh
   
   # Customise the testing environment
   # ---------------------------------
-  - pip install twisted
   - pip install --upgrade .
 
 script:
-  - trial -r epoll pyldm/tests/test_ldmbridge.py;
+  - trial -r epoll tests/test_ldmbridge.py;
