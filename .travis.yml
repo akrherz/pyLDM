@@ -24,4 +24,4 @@ install:
   - pip install --upgrade .
 
 script:
-  - trial -r epoll pyldm/tests/test_ldmbridge.py;
+  - trial -r epoll tests/test_ldmbridge.py;
