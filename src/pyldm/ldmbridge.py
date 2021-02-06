@@ -40,13 +40,13 @@ class LDMProductReceiver(basic.LineReceiver):
         """Cull old cache every 90 seconds"""
         threshold = datetime.datetime.utcnow() - datetime.timedelta(hours=4)
         # loop safety with this
-        for digest in self.cache.keys():
+        for digest in list(self.cache):
             if self.cache[digest] < threshold:
-                del self.cache[digest]
+                self.cache.pop(digest)
         self.reactor.callLater(90, self.clean_cache)  # @UndefinedVariable
 
     def filter_product(self, original):
-        """ Implement Deduplication
+        """Implement Deduplication
          - Attempt to account for all of the wild variations that can happen
          with LDM plexing of NOAAPort, WeatherWire, TOC Socket Feed and
          whatever else may be happening
