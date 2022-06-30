@@ -144,7 +144,7 @@ class LDMProductFactory(stdio.StandardIO):
     """Our Factory"""
 
     def __init__(self, protocol, reactor=None, **kwargs):
-        """ constructor with a protocol instance """
+        """constructor with a protocol instance"""
         if reactor is None:
             from twisted.internet import reactor
         protocol.reactor = reactor

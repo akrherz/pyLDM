@@ -8,7 +8,7 @@ from pyldm import ldmbridge
 
 
 def get_file(name):
-    """ Helper function to get the text file contents """
+    """Helper function to get the text file contents"""
     # basedir = os.path.dirname(__file__)
     fn = "../testdata/%s" % (name,)
     return open(fn, "rb")
