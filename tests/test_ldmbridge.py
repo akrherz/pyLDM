@@ -7,10 +7,11 @@ from twisted.internet.test.reactormixins import ReactorBuilder
 from pyldm import ldmbridge
 
 
-def get_filepath(name):
+def get_file(name):
     """Helper function to get the text file contents"""
     # basedir = os.path.dirname(__file__)
-    return f"../testdata/{name}"
+    fn = "../testdata/%s" % (name,)
+    return open(fn, "rb")
 
 
 class MyProductIngestor(ldmbridge.LDMProductReceiver):
@@ -29,52 +30,43 @@ class MyProductIngestor(ldmbridge.LDMProductReceiver):
 
 
 class StdioFilesTests(ReactorBuilder):
-    """."""
-
     def test_nwwsoi_dedup(self):
         """Can we DEDUP a file from NWWS-OI with multiple duplicates"""
         reactor = self.buildReactor()
+        f = get_file("nwwsoi_example.txt")
+
         ingest = MyProductIngestor(dedup=True)
-        with open(get_filepath("nwwsoi_example.txt"), "rb") as f:
-            ldmbridge.LDMProductFactory(
-                ingest, stdin=f.fileno(), reactor=reactor
-            )
+        ldmbridge.LDMProductFactory(ingest, stdin=f.fileno(), reactor=reactor)
 
         self.runReactor(reactor)
         assert ingest.hits == 1
 
     def test_deduplicate(self):
-        """."""
         reactor = self.buildReactor()
+        f = get_file("twoprods.txt")
+
         ingest = MyProductIngestor(dedup=True)
-        with open(get_filepath("twoprods.txt"), "rb") as f:
-            ldmbridge.LDMProductFactory(
-                ingest, stdin=f.fileno(), reactor=reactor
-            )
+        ldmbridge.LDMProductFactory(ingest, stdin=f.fileno(), reactor=reactor)
 
         self.runReactor(reactor)
         assert ingest.hits == 1
 
     def test_bridge(self):
-        """."""
         reactor = self.buildReactor()
+        f = get_file("twoprods.txt")
+
         ingest = MyProductIngestor()
-        with open(get_filepath("twoprods.txt"), "rb") as f:
-            ldmbridge.LDMProductFactory(
-                ingest, stdin=f.fileno(), reactor=reactor
-            )
+        ldmbridge.LDMProductFactory(ingest, stdin=f.fileno(), reactor=reactor)
 
         self.runReactor(reactor)
         assert ingest.hits == 2
 
     def test_binarydata(self):
-        """."""
         reactor = self.buildReactor()
+        f = get_file("threeNIDS.txt")
+
         ingest = MyProductIngestor()
-        with open(get_filepath("threeNIDS.txt"), "rb") as f:
-            ldmbridge.LDMProductFactory(
-                ingest, stdin=f.fileno(), reactor=reactor
-            )
+        ldmbridge.LDMProductFactory(ingest, stdin=f.fileno(), reactor=reactor)
 
         self.runReactor(reactor)
         assert ingest.hits == 3
