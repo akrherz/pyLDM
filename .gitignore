@@ -5,3 +5,4 @@
 /.settings/
 **/.pytest*
 **/_trial*
+**/*.egg-info
