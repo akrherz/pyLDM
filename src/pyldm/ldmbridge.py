@@ -1,7 +1,7 @@
 """A Twisted Python bridge for pqact exec'd processing"""
 # stdlib
-import hashlib
 import datetime
+import hashlib
 from io import BytesIO
 
 # twisted imports

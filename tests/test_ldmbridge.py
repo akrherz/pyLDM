@@ -2,9 +2,8 @@
 
     run `trial` from root directory
 """
-from twisted.internet.test.reactormixins import ReactorBuilder
-
 from pyldm import ldmbridge
+from twisted.internet.test.reactormixins import ReactorBuilder
 
 
 def get_file(name):
