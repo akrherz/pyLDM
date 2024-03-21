@@ -1,7 +1,8 @@
 """testing via trial
 
-    run `trial` from root directory
+run `trial` from root directory
 """
+
 from pyldm import ldmbridge
 from twisted.internet.test.reactormixins import ReactorBuilder
 
