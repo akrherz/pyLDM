@@ -5,8 +5,9 @@ cat ../testdata/twoprods.txt | python simple.py
 
 """
 
-from pyldm import ldmbridge
 from twisted.internet import reactor
+
+from pyldm import ldmbridge
 
 
 class MyIngestor(ldmbridge.LDMProductReceiver):
