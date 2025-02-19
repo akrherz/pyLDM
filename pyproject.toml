@@ -21,6 +21,7 @@ target-version = "py39"
 select = [
     "B",
     "E",
+    "ERA", # commented out code
     "F",
     "I",
 ]
