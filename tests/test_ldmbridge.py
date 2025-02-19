@@ -10,7 +10,6 @@ from pyldm import ldmbridge
 
 def get_file(name):
     """Helper function to get the text file contents"""
-    # basedir = os.path.dirname(__file__)
     fn = "../testdata/%s" % (name,)
     return open(fn, "rb")
 
@@ -26,7 +25,6 @@ class MyProductIngestor(ldmbridge.LDMProductReceiver):
 
     def connectionLost(self, reason):
         """Stop"""
-        # print("Processed %s bytes" % (self.bytes_received, ))
         self.reactor.stop()
 
 

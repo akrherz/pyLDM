@@ -67,10 +67,7 @@ class LDMProductReceiver(basic.LineReceiver):
         """
         clean = original.replace("\x1e", "").replace("\t", "")
         if clean.find("\x17") > 0:
-            # log.msg("control-17 found, truncating...")
             clean = clean[: clean.find("\x17")]
-        # log.msg("buffer[:20] is : "+ repr(buf[:20]) )
-        # log.msg("buffer[-20:] is : "+ repr(buf[-20:]) )
         lines = clean.split("\015\015\012")
         # Trim trailing empty lines
         while lines and lines[-1].strip() == "":
@@ -83,15 +80,10 @@ class LDMProductReceiver(basic.LineReceiver):
         # first 11 characters should not be included in hex, like LDM does
         # hashlib works on bytes
         digest = hashlib.md5(clean[11:].encode("utf-8")).hexdigest()
-        # log.msg("Cache size is : "+ str(len(self.cache.keys())) )
-        # log.msg("digest is     : "+ str(digest) )
-        # log.msg("Product Size  : "+ str(len(product)) )
-        # log.msg("len(lines)    : "+ str(len(lines)) )
         if digest in self.cache:
             log.msg("DUP! %s" % (",".join(lines[1:5]),))
         else:
             self.cache[digest] = datetime.now(timezone.utc)
-            # log.msg("process_data() called")
             self.process_data(clean + "\015\015\012")
 
     def rawDataReceived(self, data):
@@ -113,7 +105,6 @@ class LDMProductReceiver(basic.LineReceiver):
 
         # Everything up until the last one can always go...
         for token in tokens[:-1]:
-            # print("calling cbFunc(%s)" % (token.decode('utf-8')[:11]))
             if self.isbinary:
                 # we send bytes
                 self.reactor.callLater(0, self.cbFunc, token)

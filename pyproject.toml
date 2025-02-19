@@ -1,3 +1,17 @@
+[build-system]
+requires = ["setuptools>=64", "setuptools_scm>=8"]
+build-backend = "setuptools.build_meta"
+
+[project]
+description = "Ancient twisted based pqact LDM bridge."
+dynamic = ["version"]
+keywords = ["meteorology"]
+license = {text = "Apache"}
+readme = "README.md"
+name = "pyldm"
+
+[project.urls]
+"homepage" = "https://github.com/akrherz/pyLDM"
 
 [tool.ruff]
 line-length = 79
@@ -5,7 +19,9 @@ target-version = "py39"
 
 [tool.ruff.lint]
 select = [
+    "B",
     "E",
+    "ERA", # commented out code
     "F",
     "I",
 ]
