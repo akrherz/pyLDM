@@ -6,3 +6,4 @@
 **/.pytest*
 **/_trial*
 **/*.egg-info
+.coverage
