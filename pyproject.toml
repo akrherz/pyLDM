@@ -27,4 +27,4 @@ select = [
 ]
 
 [tool.setuptools_scm]
-# can be empty if no extra settings are needed, presence enables setuptools_scm
+version_scheme = "post-release"
