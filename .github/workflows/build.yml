@@ -28,7 +28,7 @@ jobs:
 
     # setup conda-forge with micromamba
     - name: Setup Python
-      uses: mamba-org/setup-micromamba@v2
+      uses: mamba-org/setup-micromamba@v3
       with:
         environment-file: environment.yml
         condarc: |
@@ -47,7 +47,7 @@ jobs:
         python -m coverage xml
 
     - name: Upload to codecov
-      uses: codecov/codecov-action@v5
+      uses: codecov/codecov-action@v6
       if: ${{ matrix.PYTHON_VERSION == '3.13' }}
       with:
         files: ./coverage.xml
