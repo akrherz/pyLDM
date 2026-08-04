@@ -11,3 +11,7 @@ try:
 except PackageNotFoundError:
     # package is not installed
     __version__ = "dev"
+
+from pyldm.ldmclient import LDMClient, LDMFeedtype, LDMProduct
+
+__all__ = ["LDMClient", "LDMFeedtype", "LDMProduct"]
