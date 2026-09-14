@@ -3,7 +3,7 @@
 /build
 /dist
 /.settings/
+/.vscode
 **/.pytest*
-**/_trial*
 **/*.egg-info
 .coverage

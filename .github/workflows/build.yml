@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        PYTHON_VERSION: ["3.10", "3.11", "3.13"]
+        PYTHON_VERSION: ["3.11", "3.13", "3.14"]
     env:
       PYTHON_VERSION: ${{ matrix.PYTHON_VERSION }}
     steps:
@@ -34,7 +34,6 @@ jobs:
         condarc: |
           channels:
             - conda-forge
-            - defaults
         create-args: >-
           python=${{ env.PYTHON_VERSION }}
         environment-name: prod
@@ -42,13 +41,14 @@ jobs:
 
     - name: Build and Test
       run: |
+        set -e
         python -m pip install . --upgrade --no-deps
-        coverage run --source=pyldm -m twisted.trial tests/test_ldmbridge.py
+        python -m pytest --cov=pyldm tests/
         python -m coverage xml
 
     - name: Upload to codecov
       uses: codecov/codecov-action@v7
-      if: ${{ matrix.PYTHON_VERSION == '3.13' }}
+      if: ${{ matrix.PYTHON_VERSION == '3.14' }}
       with:
         files: ./coverage.xml
         fail_ci_if_error: true
