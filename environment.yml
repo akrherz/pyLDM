@@ -1,4 +1,6 @@
 dependencies:
   # For testing
   - coverage
+  # for testing
+  - pytest
   - twisted
