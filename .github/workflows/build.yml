@@ -42,7 +42,7 @@ jobs:
     - name: Build and Test
       run: |
         python -m pip install . --upgrade --no-deps
-        coverage run --source=pyldm -m twisted.trial tests/test_ldmbridge.py
+        python -m pytest --cov=pyldm tests/
         python -m coverage xml
 
     - name: Upload to codecov
