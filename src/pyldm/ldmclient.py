@@ -580,11 +580,11 @@ class _LDM6Protocol(asyncio.Protocol):
         try:
             pc = r.prod_class()
             log.debug("HIYA: %s", pc)
-        except EOFError:
-            pass
+        except EOFError as exp:
+            log.debug("Truncated HIYA payload; replying anyway: %s", exp)
         self._send_hiya_reply(xid)
 
-    def _handle_hereis(self, xid: int, r: _XDRReader) -> None:
+    def _handle_hereis(self, _xid: int, r: _XDRReader) -> None:
         """HEREIS — complete product in one message (no reply needed)."""
         try:
             info = r.prod_info()
@@ -629,7 +629,7 @@ class _LDM6Protocol(asyncio.Protocol):
             self._pending_info = None
             self._pending_data = b""
 
-    def _handle_notification(self, xid: int, r: _XDRReader) -> None:
+    def _handle_notification(self, _xid: int, r: _XDRReader) -> None:
         """NOTIFICATION — metadata only, no data payload (no reply needed)."""
         try:
             info = r.prod_info()
@@ -661,11 +661,6 @@ class _LDM6Protocol(asyncio.Protocol):
                 self._product_callback(product)
             except Exception:  # noqa: BLE001
                 log.exception("Exception in product callback")
-
-
-# ---------------------------------------------------------------------------
-# Public LDMClient API
-# ---------------------------------------------------------------------------
 
 
 class LDMClient:
