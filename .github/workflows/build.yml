@@ -41,6 +41,7 @@ jobs:
 
     - name: Build and Test
       run: |
+        set -e
         python -m pip install . --upgrade --no-deps
         python -m pytest --cov=pyldm tests/
         python -m coverage xml
