@@ -795,9 +795,7 @@ class LDMClient:
                 break
             if self._reconnect_delay is None:
                 break
-            log.info(
-                "Reconnecting in %.1f seconds...", self._reconnect_delay
-            )
+            log.info("Reconnecting in %.1f seconds...", self._reconnect_delay)
             try:
                 await asyncio.wait_for(
                     self._stop_event.wait(), timeout=self._reconnect_delay

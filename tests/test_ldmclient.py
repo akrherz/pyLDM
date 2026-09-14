@@ -75,9 +75,9 @@ def _make_feedme_reply_ok(xid: int, upstream_pid: int = 12345) -> bytes:
 def _make_feedme_reply_reclass(xid: int) -> bytes:
     """Build a FEEDME RECLASS reply with a minimal prod_class."""
     now = int(time.time())
-    pc = struct.pack(">ii", now, 0)          # from
+    pc = struct.pack(">ii", now, 0)  # from
     pc += struct.pack(">ii", 0x7FFFFFFF, 999999)  # to
-    pc += struct.pack(">I", 0)               # psa count = 0
+    pc += struct.pack(">I", 0)  # psa count = 0
     body = struct.pack(">I", LDM_RECLASS) + pc
     return _tcp_record(_rpc_reply_body(xid, body))
 
@@ -98,7 +98,7 @@ def _encode_prod_info(
 ) -> bytes:
     tv_sec = int(arrival)
     tv_usec = int((arrival - tv_sec) * 1_000_000)
-    buf = struct.pack(">ii", tv_sec, tv_usec)   # arrival
+    buf = struct.pack(">ii", tv_sec, tv_usec)  # arrival
     buf += _xdr_opaque_fixed(signature)  # 16 bytes, no padding needed
     buf += _xdr_string(origin)
     buf += struct.pack(">I", feedtype)
@@ -106,8 +106,6 @@ def _encode_prod_info(
     buf += _xdr_string(ident)
     buf += struct.pack(">I", sz)
     return buf
-
-
 
 
 class _FakeTransport:
@@ -142,8 +140,6 @@ def _make_protocol(**kwargs) -> tuple[_LDM6Protocol, _FakeTransport]:
     return proto, transport
 
 
-
-
 class TestLDMFeedtype(unittest.TestCase):
     def test_basic_values(self):
         self.assertEqual(int(LDMFeedtype.PPS), 0x00000001)
@@ -159,8 +155,6 @@ class TestLDMFeedtype(unittest.TestCase):
         combined = LDMFeedtype.IDS | LDMFeedtype.DDS
         self.assertIn(LDMFeedtype.DDS, combined)
         self.assertNotIn(LDMFeedtype.HDS, combined)
-
-
 
 
 class TestLDMProduct(unittest.TestCase):
@@ -192,8 +186,6 @@ class TestLDMProduct(unittest.TestCase):
         self.assertEqual(p.origin, "ldm.example.edu")
         self.assertEqual(p.seqno, 42)
         self.assertEqual(p.signature, sig)
-
-
 
 
 class TestXDRHelpers(unittest.TestCase):
@@ -228,8 +220,6 @@ class TestXDRHelpers(unittest.TestCase):
         self.assertEqual(record[4:], payload)
 
 
-
-
 class TestXDRReader(unittest.TestCase):
     def test_uint(self):
         r = _XDRReader(struct.pack(">I", 42))
@@ -245,7 +235,7 @@ class TestXDRReader(unittest.TestCase):
         self.assertEqual(r.string(), "hello")
 
     def test_opaque_fixed(self):
-        raw = b"\xDE\xAD\xBE\xEF"
+        raw = b"\xde\xad\xbe\xef"
         data = _xdr_opaque_fixed(raw)
         r = _XDRReader(data)
         self.assertEqual(r.opaque_fixed(4), raw)
@@ -292,16 +282,14 @@ class TestXDRReader(unittest.TestCase):
         self.assertEqual(reply["code"], "BADPATTERN")
 
 
-
-
 class TestRPCBuilders(unittest.TestCase):
     def test_rpc_call_structure(self):
         body = b"\x01\x02\x03\x04"
         msg = _rpc_call(1, LDM_PROG, LDM_VERS, PROC_FEEDME, body)
         r = _XDRReader(msg)
-        self.assertEqual(r.uint(), 1)         # xid
-        self.assertEqual(r.uint(), 0)         # CALL
-        self.assertEqual(r.uint(), 2)         # RPC version
+        self.assertEqual(r.uint(), 1)  # xid
+        self.assertEqual(r.uint(), 0)  # CALL
+        self.assertEqual(r.uint(), 2)  # RPC version
         self.assertEqual(r.uint(), LDM_PROG)
         self.assertEqual(r.uint(), LDM_VERS)
         self.assertEqual(r.uint(), PROC_FEEDME)
@@ -309,8 +297,8 @@ class TestRPCBuilders(unittest.TestCase):
     def test_rpc_reply_void(self):
         msg = _rpc_reply_void(42)
         r = _XDRReader(msg)
-        self.assertEqual(r.uint(), 42)        # xid
-        self.assertEqual(r.uint(), 1)         # REPLY
+        self.assertEqual(r.uint(), 42)  # xid
+        self.assertEqual(r.uint(), 1)  # REPLY
 
     def test_rpc_reply_body(self):
         body = struct.pack(">I", 99)
@@ -328,8 +316,6 @@ class TestRPCBuilders(unittest.TestCase):
         fp = _encode_feedpar(int(LDMFeedtype.DDPLUS), ".*", primary=False)
         max_hereis = struct.unpack(">I", fp[-4:])[0]
         self.assertEqual(max_hereis, 0)
-
-
 
 
 class TestProtocolFeedme(unittest.TestCase):
@@ -361,8 +347,6 @@ class TestProtocolFeedme(unittest.TestCase):
         reply = _make_feedme_reply_badpattern(xid)
         proto.data_received(reply)
         self.assertTrue(proto.feedme_done.is_set())
-
-
 
 
 class TestProtocolHereis(unittest.TestCase):
@@ -410,8 +394,6 @@ class TestProtocolHereis(unittest.TestCase):
         proto.data_received(msg)
 
         self.assertEqual(len(received), 0)
-
-
 
 
 class TestProtocolComingsoonBlkdata(unittest.TestCase):
@@ -479,8 +461,6 @@ class TestProtocolComingsoonBlkdata(unittest.TestCase):
         self.assertTrue(reply_bytes.endswith(struct.pack(">I", LDM_OK)))
 
 
-
-
 class TestProtocolHiya(unittest.TestCase):
     def _make_hiya(self, xid):
         now = int(time.time())
@@ -498,8 +478,6 @@ class TestProtocolHiya(unittest.TestCase):
         self.assertGreater(len(transport.written), written_before)
 
 
-
-
 class TestProtocolNotification(unittest.TestCase):
     def test_notification_no_product_callback(self):
         """NOTIFICATION should not raise even with no callback."""
@@ -511,8 +489,6 @@ class TestProtocolNotification(unittest.TestCase):
         proto.data_received(msg)  # Should not raise
 
 
-
-
 class TestProtocolNullproc(unittest.TestCase):
     def test_nullproc_sends_void_reply(self):
         proto, transport = _make_protocol()
@@ -522,8 +498,6 @@ class TestProtocolNullproc(unittest.TestCase):
         proto.data_received(msg)
         # A reply should have been sent
         self.assertGreater(len(transport.written), written_before)
-
-
 
 
 class TestMultiFragment(unittest.TestCase):
@@ -551,8 +525,14 @@ class TestMultiFragment(unittest.TestCase):
         )
 
         header = struct.pack(
-            ">IIIIIII", 800, RPC_CALL, RPC_VERSION, LDM_PROG, LDM_VERS,
-            PROC_HEREIS, AUTH_NONE_FLAVOR,
+            ">IIIIIII",
+            800,
+            RPC_CALL,
+            RPC_VERSION,
+            LDM_PROG,
+            LDM_VERS,
+            PROC_HEREIS,
+            AUTH_NONE_FLAVOR,
         )
         header += struct.pack(">I", 0)
         header += struct.pack(">II", AUTH_NONE_FLAVOR, 0)
@@ -573,8 +553,6 @@ class TestMultiFragment(unittest.TestCase):
         proto.data_received(mark2 + frag2)
         self.assertEqual(len(received), 1)
         self.assertEqual(received[0].payload, payload)
-
-
 
 
 class TestIncrementalData(unittest.TestCase):
@@ -600,8 +578,6 @@ class TestIncrementalData(unittest.TestCase):
         self.assertEqual(received[0].payload, payload)
 
 
-
-
 class TestConnectionLost(unittest.TestCase):
     def test_connection_lost_sets_event(self):
         proto, transport = _make_protocol()
@@ -615,8 +591,6 @@ class TestConnectionLost(unittest.TestCase):
         proto.connection_lost(OSError("refused"))
         self.assertTrue(proto.feedme_done.is_set())
         self.assertIsInstance(proto.connection_lost_exc, OSError)
-
-
 
 
 class TestLDMClient(unittest.TestCase):
@@ -660,8 +634,6 @@ class TestLDMClient(unittest.TestCase):
             await c.stop()
 
         asyncio.run(_go())
-
-
 
 
 class TestCallbackExceptionIsolation(unittest.TestCase):
